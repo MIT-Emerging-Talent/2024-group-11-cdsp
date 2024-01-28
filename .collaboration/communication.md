@@ -13,49 +13,49 @@
 
 1. Branching Strategy:
 
-    - At first always make pull request to download recent changes from remove repo.
-    - Create feature branches for new features or bug fixes.
+   - At first always make pull request to download recent changes from remove repo.
+   - Create feature branches for new features or bug fixes.
 
 2. Commit Guidelines:
 
-    - Write clear and concise commit messages.
-    - Use present-tense verbs (e.g., "Add feature" instead of "Added feature").
-    - Reference relevant issues or pull requests in commit messages.
+   - Write clear and concise commit messages.
+   - Use present-tense verbs (e.g., "Add feature" instead of "Added feature").
+   - Reference relevant issues or pull requests in commit messages.
 
 3. Code Style:
 
-    - Agree on and adhere to a consistent code style - PEP 8 for Python.
-    - Use linters and automated formatting tools to maintain code style.
+   - Agree on and adhere to a consistent code style - PEP 8 for Python.
+   - Use linters and automated formatting tools to maintain code style.
 
 4. Documentation:
 
-    - Document code thoroughly, including function/method comments and README files.
-    - Use a consistent format for documentation.
+   - Document code thoroughly, including function/method comments and README files.
+   - Use a consistent format for documentation.
 
 5. Code Reviews:
 
-    - Require code reviews before merging branches.
-    - Provide constructive feedback during code reviews.
-    - Use code review tools and integrations, if available.
+   - Require code reviews before merging branches.
+   - Provide constructive feedback during code reviews.
+   - Use code review tools and integrations, if available.
 
 6. Issue Tracking:
 
-    - Use GitHub Issues or a similar system for tracking bugs, features, and tasks.
-    - Clearly define issue templates and use labels appropriately.
+   - Use GitHub Issues or a similar system for tracking bugs, features, and tasks.
+   - Clearly define issue templates and use labels appropriately.
 
 7. Pull Requests:
 
-    - Clearly describe the purpose of pull requests.
-    - Ensure that all tests pass before merging.
+   - Clearly describe the purpose of pull requests.
+   - Ensure that all tests pass before merging.
 
 8. Version Control:
 
-    - Avoid force-pushing to shared branches.
-    - Use descriptive branch and tag names.
+   - Avoid force-pushing to shared branches.
+   - Use descriptive branch and tag names.
 
 9. Security Practices:
 
-    - Regularly update dependencies and libraries.
+   - Regularly update dependencies and libraries.
 
 10. Collaboration and Communication:
 
@@ -65,14 +65,13 @@
 11. Git Etiquette:
 
     - Avoid committing large binary files directly to the repository.
-     -Be mindful of the commit history; squash or rebase when necessary.
-
+      -Be mindful of the commit history; squash or rebase when necessary.
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| ------------ | ---- | --------------- |
-| Every Friday | Zoom | Initial meeting |
+| Day          | How  | The topic of discussion |
+| ------------ | ---- | ----------------------- |
+| Every Friday | Zoom | Initial meeting         |
 
 ## Communication Channels
 
@@ -89,20 +88,20 @@ how often will we get in touch on each channel, and what we will discuss there:
 ## Availability
 
 Dmytro - avaliable after 15-00 in Slack
-Anna - avaliable after 14-00 in Slack
+Anna - avaliable after 10-00 in Slack
 Denys - avaliable after 14-00 in Slack
 Walid - available after 18-00 in Slack
 Yanina- available after 14-00 in Slack
 Murtaza - available after 14-00 in Slack
 
-### Availability for calling/messaging
+### Availability for calling/messaging(EST)
 
 | Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _name_  | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | Dmytro  | ------- | 10 - 20 |  -------  | -------  | ------- | 15 - 22  | ------- |
 | Yanina  | 11 - 17 | 11 - 17 |  11 - 17  | 11 - 17  | 11 - 17 | 10 - 17  | ------- |
-| ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
+| Anna    | 10 - 18 | 10 - 18 |  10 - 18  | 10 - 18  | 10 - 18 | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
@@ -110,7 +109,8 @@ Murtaza - available after 14-00 in Slack
 ### How many hours everyone has per day:
 
 - Dmytro: _2h_;
-- Yanina: _2h_; 
+- Yanina: _2h_;
+- Anna: _2h-3h_;
 
 ## Asking for Help
 
