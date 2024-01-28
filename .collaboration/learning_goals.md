@@ -69,3 +69,12 @@
 3. Seek guidance from experienced team members when facing challenges.
 4. Understand project goals by asking questions and listening actively.
 5. Develop the ability to adjust to evolving needs and effectively prioritize tasks.
+
+### Yanina
+
+1. Develop the ability to work collaboratively with team members to solve complex data analysis problems.
+2. Acquire skills in using Git for version control on GitHub to track changes, manage project history, and facilitate seamless collaboration.
+3. Learn how to effectively organize a data analytics project on GitHub.
+4. Learn how to clean and prepare data for analysis, ensure data quality and integrity.
+5. Develop skills in conducting exploratory data analysis to identify patterns, trends, and insights in a data set.
+6. Develop effective time management skills to meet project deadlines and milestones.
