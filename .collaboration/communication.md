@@ -102,7 +102,7 @@ Murtaza - available after 14-00 in Slack
 | Dmytro  | ------- | 10 - 20 |  -------  | -------  | ------- | 15 - 22  | ------- |
 | Yanina  | 11 - 17 | 11 - 17 |  11 - 17  | 11 - 17  | 11 - 17 | 10 - 17  | ------- |
 | Anna    | 10 - 18 | 10 - 18 |  10 - 18  | 10 - 18  | 10 - 18 | -------  | ------- |
-| ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
+| Murtaza | 17 - 19 | 17 - 19 |  -------  | -------  | 18 - 20 | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
 
@@ -111,6 +111,7 @@ Murtaza - available after 14-00 in Slack
 - Dmytro: _2h_;
 - Yanina: _2h_;
 - Anna: _2h-3h_;
+- Murtaza: _2h_;
 
 ## Asking for Help
 
@@ -121,3 +122,4 @@ based on how long you've been stuck on the same problem:
 1. _30 -> 60 min_: Try on your own
 2. _60 -> 90 min_: Ask your group for help
 3. _90+ min_: Tag your coaches in Slack or GitHub
+got
