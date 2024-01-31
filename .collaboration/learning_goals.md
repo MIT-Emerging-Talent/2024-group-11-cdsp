@@ -86,3 +86,11 @@
 3.	Emphasize the importance of writing well-structured and comprehensible code while documenting the development process.
 4.	Utilize statistical techniques to extract meaningful insights from data, enabling informed decision-making.
 5.	Cultivate effective communication within the team by documenting analysis procedures and fostering transparent collaboration.
+
+
+### Denys
+1. Gain a deeper understanding of data science methodologies and enhance the structuring of data science workflows.
+2. Actively participate in collaborative data science project to further develop practical skills and contribute to team success.
+3. Cultivate hands-on experience and proficiency in working within cross-cultural teams to broaden my adaptability and collaboration skills in diverse environments. 
+4. Dive into a new topic within data science, contributing to the team's project by gaining expertise in the chosen area and making an impact on the project.
+5. Develop proficiency in version control using GitHub, emphasizing collaboration through efficient code management, tracking changes, and contributing to the overall project history.
