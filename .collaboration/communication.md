@@ -89,7 +89,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 Dmytro - avaliable after 15-00 in Slack
 Anna - avaliable after 10-00 in Slack
-Denys - avaliable after 14-00 in Slack
+Denys - avaliable after 15-00 in Slack
 Walid - available after 18-00 in Slack
 Yanina- available after 14-00 in Slack
 Murtaza - available after 14-00 in Slack
@@ -103,7 +103,7 @@ Murtaza - available after 14-00 in Slack
 | Yanina  | 11 - 17 | 11 - 17 |  11 - 17  | 11 - 17  | 11 - 17 | 10 - 17  | ------- |
 | Anna    | 10 - 18 | 10 - 18 |  10 - 18  | 10 - 18  | 10 - 18 | -------  | ------- |
 | Murtaza | 17 - 19 | 17 - 19 |  -------  | -------  | 18 - 20 | -------  | ------- |
-| ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
+| Denys   | ------- | ------- |  -------  | 17 - 21  | 13 - 21 | -------  | ------- |
 | ------- | ------- | ------- |  -------  | -------  | ------- | -------  | ------- |
 
 ### How many hours everyone has per day:
@@ -112,6 +112,7 @@ Murtaza - available after 14-00 in Slack
 - Yanina: _2h_;
 - Anna: _2h-3h_;
 - Murtaza: _2h_;
+- Denys: _2h_;
 
 ## Asking for Help
 
