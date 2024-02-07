@@ -17,27 +17,27 @@
 1. Average salary of workers in the food industry sector.
 2. Number of working hours and vacation days.
 3. Workplace safety and health indices.
-4. Accessibility of Investments for Startups and Nonprofits:
 
-# Amount of investment and grants allocated to food waste reduction initiatives.
+# Accessibility of Investments for Startups and Nonprofits:
 
-1. Number of startups and nonprofits receiving funding.
-2. Investment activity within the food industry sector.
-3. Food Assistance Infrastructure and Processes:
+1. Amount of investment and grants allocated to food waste reduction initiatives.
+2. Number of startups and nonprofits receiving funding.
+3. Investment activity within the food industry sector.
 
-# Number and geographical distribution of food assistance organizations.
+# Food Assistance Infrastructure and Processes:
 
-1. Level of accessibility and efficiency of food distribution.
-2. Logistics and infrastructure costs associated with food assistance.
-3. Consumer Education Strategies:
+1. Number and geographical distribution of food assistance organizations.
+2. Level of accessibility and efficiency of food distribution.
+3. Logistics and infrastructure costs associated with food assistance.
 
-# Number of educational programs and campaigns on food waste reduction.
+# Consumer Education Strategies:
 
-1. Consumer awareness level regarding food management and waste reduction.
-2. Effectiveness of consumer education programs and their impact on consumer behavior.
-3. Infrastructure for Food Waste Disposal:
+1. Number of educational programs and campaigns on food waste reduction.
+2. Consumer awareness level regarding food management and waste reduction.
+3. Effectiveness of consumer education programs and their impact on consumer behavior.
 
-# Quantity and effectiveness of composting and anaerobic digestion facilities.
+# Infrastructure for Food Waste Disposal:
 
-1. Accessibility and cost of waste disposal services for different population groups.
-2. Environmental consequences of various food waste disposal methods. Який заголовок можна підібрати
+1. Quantity and effectiveness of composting and anaerobic digestion facilities.
+2. Accessibility and cost of waste disposal services for different population groups.
+3. Environmental consequences of various food waste disposal methods. Який заголовок можна підібрати
