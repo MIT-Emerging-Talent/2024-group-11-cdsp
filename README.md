@@ -34,7 +34,7 @@ Brainstorm new and creative solutions to reduce waste and promote zero waste ini
 
 Our team is engaged in research in the field of Data Science, focusing on the implementation of zero waste programs. Learning from practical experience and utilizing modern data analysis methods, we aim to develop our skills and make a significant contribution to this field.
 
-For more details on our own experience, please refer to [our_experience.md](milestone\milestone_2\our_experience.md).
+For more details on our own experience, please refer to [**our_experience**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone\milestone_2\our_experience.md).
 
 ## Contributing
 
