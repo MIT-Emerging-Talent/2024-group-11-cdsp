@@ -30,6 +30,12 @@ Brainstorm new and creative solutions to reduce waste and promote zero waste ini
 - **Defining the Issue:** Analyze statements from various stakeholder groups to identify key challenges and opportunities in waste management.
 - **Generating Ideas and Making Progress:** Engage in collaborative brainstorming sessions to devise innovative solutions. Test these ideas through simulations or small-scale projects, continuously iterating based on feedback and data analysis.
 
+## Our Research Work
+
+Our team is engaged in research in the field of Data Science, focusing on the implementation of zero waste programs. Learning from practical experience and utilizing modern data analysis methods, we aim to develop our skills and make a significant contribution to this field.
+
+For more details on our own experience, please refer to [our_experience.md](milestone\milestone_2\our_experience.md).
+
 ## Contributing
 
 We welcome contributions from individuals and organizations passionate about waste management and sustainability. To contribute, please follow these guidelines:
