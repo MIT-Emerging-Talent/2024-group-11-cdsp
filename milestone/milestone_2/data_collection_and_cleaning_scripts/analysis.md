@@ -35,9 +35,3 @@
 1. Number of educational programs and campaigns on food waste reduction.
 2. Consumer awareness level regarding food management and waste reduction.
 3. Effectiveness of consumer education programs and their impact on consumer behavior.
-
-# Infrastructure for Food Waste Disposal:
-
-1. Quantity and effectiveness of composting and anaerobic digestion facilities.
-2. Accessibility and cost of waste disposal services for different population groups.
-3. Environmental consequences of various food waste disposal methods. Який заголовок можна підібрати
