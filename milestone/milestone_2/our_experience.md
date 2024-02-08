@@ -10,6 +10,22 @@ My experience with Zero Waste includes studying and adapting best practices, par
 
 
 
+### Murtaza
+In Afghanistan, despite challenges stemming from poor infrastructure and limited investments in waste recycling, there exists a vibrant culture of food waste management driven by grassroots initiatives and entrepreneurial endeavors. My personal experiences in this domain have provided insights into the innovative ways in which waste food is repurposed and recycled to minimize environmental impact and contribute to sustainable practices.
+
+1. Composting Waste Fruits and Vegetables:
+In Afghanistan, waste fruits and vegetables serve as a significant source for producing compost, which plays a crucial role in supporting bio agriculture. Despite the absence of sophisticated recycling facilities, individuals and communities engage in composting practices, leveraging organic waste to enrich soil fertility. This grassroots approach to composting not only diverts organic waste from landfills but also promotes sustainable agricultural practices, contributing to food security and environmental conservation.
+
+2. Utilizing Waste Bread for Animal Feed:
+Another noteworthy practice in food waste management in Afghanistan involves repurposing waste bread as a complementary feed for farm animals. In a country where bread holds cultural and dietary significance, minimizing bread waste is paramount. Instead of discarding surplus or stale bread, it is collected and repurposed as a nutritious feed supplement for livestock. This innovative approach not only reduces food waste but also provides a sustainable solution to address the nutritional needs of farm animals, particularly in rural areas where access to commercial feed may be limited.
+
+3. Entrepreneurial Initiatives in Waste Management:
+Beyond traditional practices, entrepreneurial ventures have emerged to address food waste management challenges in Afghanistan. Startups and social enterprises have leveraged innovative technologies and business models to tackle food waste at various stages of the supply chain. From surplus food redistribution platforms to initiatives focusing on converting organic waste into value-added products like compost or biogas, these ventures contribute to both environmental sustainability and economic development.
+
+4. Socio-Cultural Context and Community Participation:
+The success of food waste management initiatives in Afghanistan is deeply rooted in socio-cultural norms and community participation. Practices such as composting and bread redistribution are not only environmentally beneficial but also resonate with local traditions of resourcefulness and frugality. Moreover, community-led efforts to address food insecurity and promote sustainable agriculture underscore the intrinsic connection between waste management and broader socio-economic development goals.
+
+
 ### Dmytro
 
 I have experience of Zero Waste in couple countries and in couple states across USA. My latest experience about Massachusetts state. State launched Solid Waste Master Plan, the document establishes goals to reduce disposal statewide by 30 percent (from 5.7 million tons in 2018 to 4 million tons in 2030) over the next decade. It sets a long-term goal of achieving a 90 percent reduction in disposal to 570,000 tons by 2050. 
@@ -25,3 +41,4 @@ Here I want to provide of some interesting key points for becoming zero waste fo
 4. Recycle – While recycling isn’t fully sustainable, it’s better than sending recyclable materials to landfills and incinerators. To ensure you are recycling correctly, visit the RecycleSmartMA website to access their Recyclopedia tool. 
 
 5. Rot – Compost! It doesn’t matter if you live in a tiny apartment in the city or on a ten-acre farm, composting options are available to you. About 26% of the waste stream in Massachusetts is composed of organic waste. Composting reduces the volume of waste going to landfills or waste-to-energy incinerators. Check out this great article from NPR on how to compost.
+
