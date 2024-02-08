@@ -9,6 +9,7 @@ My experience with Zero Waste includes studying and adapting best practices, par
 3. Recently, I attended a FoodSharing Startup Event, where volunteers gathered to share experiences, listen to proposals, and discuss plans for the next quarter. This event further inspired me to actively participate in initiatives aimed at reducing waste and promoting Zero Waste practices within my local community.
 
 
+
 ### Murtaza
 In Afghanistan, despite challenges stemming from poor infrastructure and limited investments in waste recycling, there exists a vibrant culture of food waste management driven by grassroots initiatives and entrepreneurial endeavors. My personal experiences in this domain have provided insights into the innovative ways in which waste food is repurposed and recycled to minimize environmental impact and contribute to sustainable practices.
 
@@ -23,4 +24,21 @@ Beyond traditional practices, entrepreneurial ventures have emerged to address f
 
 4. Socio-Cultural Context and Community Participation:
 The success of food waste management initiatives in Afghanistan is deeply rooted in socio-cultural norms and community participation. Practices such as composting and bread redistribution are not only environmentally beneficial but also resonate with local traditions of resourcefulness and frugality. Moreover, community-led efforts to address food insecurity and promote sustainable agriculture underscore the intrinsic connection between waste management and broader socio-economic development goals.
+
+
+### Dmytro
+
+I have experience of Zero Waste in couple countries and in couple states across USA. My latest experience about Massachusetts state. State launched Solid Waste Master Plan, the document establishes goals to reduce disposal statewide by 30 percent (from 5.7 million tons in 2018 to 4 million tons in 2030) over the next decade. It sets a long-term goal of achieving a 90 percent reduction in disposal to 570,000 tons by 2050. 
+
+Here I want to provide of some interesting key points for becoming zero waste for my opinion:
+
+1. Refuse – Say no to disposable single-use plastic, coffee cups, utensils, straws, shopping bags, and anything that you could replace with a reusable option. For more suggestions of disposable products that you can replace with reusable or eco-friendly options, read 43 Ways to Reduce Your Plastic Disposable Waste. 
+
+2. Reduce – Be mindful of what you buy. Purchase only what you need and limit impulse purchases. Buy secondhand items whenever possible for clothing, furniture, etc. Learn more about ways to reduce how many new clothes you buy.
+
+3. Reuse – Before you throw something out, think about whether you could repair or reuse it for another purpose. Breathe new life into old pieces of furniture or donate these items. Visit Beyond the Bin to find a local donation center. For old clothes, swap parties are gaining in popularity. Go through your closet, gather a group of friends, and do a swap rather than a shop! 
+
+4. Recycle – While recycling isn’t fully sustainable, it’s better than sending recyclable materials to landfills and incinerators. To ensure you are recycling correctly, visit the RecycleSmartMA website to access their Recyclopedia tool. 
+
+5. Rot – Compost! It doesn’t matter if you live in a tiny apartment in the city or on a ten-acre farm, composting options are available to you. About 26% of the waste stream in Massachusetts is composed of organic waste. Composting reduces the volume of waste going to landfills or waste-to-energy incinerators. Check out this great article from NPR on how to compost.
 
