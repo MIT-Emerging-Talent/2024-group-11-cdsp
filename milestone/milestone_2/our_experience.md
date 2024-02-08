@@ -42,3 +42,26 @@ Here I want to provide of some interesting key points for becoming zero waste fo
 
 5. Rot – Compost! It doesn’t matter if you live in a tiny apartment in the city or on a ten-acre farm, composting options are available to you. About 26% of the waste stream in Massachusetts is composed of organic waste. Composting reduces the volume of waste going to landfills or waste-to-energy incinerators. Check out this great article from NPR on how to compost.
 
+### Yanina
+My experience in the project related to Zero Waste is researching and finding solutions to the problem of food wastage in Poland, the country in which I currently live. I research a lot of statistics and learn about interesting services and organizations, legislative measures aimed at preventing food waste. It gave me an understanding of the importance of conscious consumption and the application of zero waste practices in everyday life.
+
+1. With the help of this data, I found out that the main food products that Poles most often throw into the trash are 
+ bakery products - 52%,
+ vegetables - 36%;
+ fruits - 38%;
+ meat products - 32%;
+ dairy products - 17%. 
+
+2. The main reasons for wasting food are:
+missing the expiration date - 29%;
+lack of a list of necessary products - 20%;
+excessive purchases - 20%;
+excessively large portions of food - 15%.
+
+3. One of the ways to reduce food waste in Poland is to use the Too Good to Go and Foodsi services. These services allow people to purchase unsold food from stores and restaurants at a significantly reduced price. This allows stores to avoid throwing food away and helps reduce food waste.
+
+4. There are 31 food banks in Poland that collect and distribute unsold but still edible food. These organizations help to avoid food wastage and provide hungry people with the necessary food.
+
+5. Another important method is the law on the prevention of food waste in Poland. According to this law, stores with a floor space of more than 250 square meters must donate unused but still usable food to public organizations that provide assistance to those in need. These can be charitable organizations, public kitchens, charitable institutions and other institutions working in the field of social assistance.
+
+6. Understanding the problem of food waste inspires me to make changes in my consumer behavior and helps me to develop a more responsible and environmentally friendly approach to eating and  motivated me to engage proactively in endeavors dedicated to minimizing waste and advocating for Zero Waste principles within my immediate social sphere.
