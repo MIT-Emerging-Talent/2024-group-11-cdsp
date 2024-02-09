@@ -9,8 +9,8 @@ My experience with Zero Waste includes studying and adapting best practices, par
 3. Recently, I attended a FoodSharing Startup Event, where volunteers gathered to share experiences, listen to proposals, and discuss plans for the next quarter. This event further inspired me to actively participate in initiatives aimed at reducing waste and promoting Zero Waste practices within my local community.
 
 
-
 ### Murtaza
+
 In Afghanistan, despite challenges stemming from poor infrastructure and limited investments in waste recycling, there exists a vibrant culture of food waste management driven by grassroots initiatives and entrepreneurial endeavors. My personal experiences in this domain have provided insights into the innovative ways in which waste food is repurposed and recycled to minimize environmental impact and contribute to sustainable practices.
 
 1. Composting Waste Fruits and Vegetables:
@@ -42,7 +42,9 @@ Here I want to provide of some interesting key points for becoming zero waste fo
 
 5. Rot – Compost! It doesn’t matter if you live in a tiny apartment in the city or on a ten-acre farm, composting options are available to you. About 26% of the waste stream in Massachusetts is composed of organic waste. Composting reduces the volume of waste going to landfills or waste-to-energy incinerators. Check out this great article from NPR on how to compost.
 
+
 ### Yanina
+
 My experience in the project related to Zero Waste is researching and finding solutions to the problem of food wastage in Poland, the country in which I currently live. I research a lot of statistics and learn about interesting services and organizations, legislative measures aimed at preventing food waste. It gave me an understanding of the importance of conscious consumption and the application of zero waste practices in everyday life.
 
 1. With the help of this data, I found out that the main food products that Poles most often throw into the trash are 
@@ -65,3 +67,17 @@ excessively large portions of food - 15%.
 5. Another important method is the law on the prevention of food waste in Poland. According to this law, stores with a floor space of more than 250 square meters must donate unused but still usable food to public organizations that provide assistance to those in need. These can be charitable organizations, public kitchens, charitable institutions and other institutions working in the field of social assistance.
 
 6. Understanding the problem of food waste inspires me to make changes in my consumer behavior and helps me to develop a more responsible and environmentally friendly approach to eating and  motivated me to engage proactively in endeavors dedicated to minimizing waste and advocating for Zero Waste principles within my immediate social sphere.
+
+
+### Denys
+
+In my personal exploration of the Zero Waste movement, I've uncovered intriguing practices that contribute to a more sustainable lifestyle. Despite not having direct experience with Zero Waste, I've encountered a few noteworthy initiatives that have left a lasting impression on me.
+
+1. Exploring Zero Waste Restaurants:
+One trend that has captured my attention is the rising popularity of zero-waste practices in restaurants. This aligns seamlessly with my passion for discovering diverse dining establishments, prompting me to delve deeper into how the food industry is embracing sustainability. From innovative waste reduction methods to eco-friendly packaging, these eateries are leading the way in creating a more environmentally conscious dining experience.
+
+2. Food Banks in the United States:
+In the United States, I've observed the pivotal role played by initiatives like food banks in addressing not only food insecurity but also combating food waste. These institutions provide free food to those with low social status and refugees, presenting a practical solution that addresses both societal needs and environmental concerns. It's heartening to witness the positive impact such initiatives can have on reducing waste and supporting those in need.
+
+3. "Too Good To Go" App Experience:
+Another noteworthy aspect of my journey involves the "Too Good To Go" app, as introduced by Anna. While not as widely recognized in the U.S., this app offers an innovative solution to tackle food waste. By connecting users with restaurants that have surplus food, it exemplifies how technology can be harnessed on an individual level to combat waste. My personal experience with the app was eye-opening, emphasizing the role each of us can play in minimizing food waste through accessible and user-friendly solutions.
