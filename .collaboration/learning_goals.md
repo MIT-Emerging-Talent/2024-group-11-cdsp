@@ -78,3 +78,11 @@
 4. Learn how to clean and prepare data for analysis, ensure data quality and integrity.
 5. Develop skills in conducting exploratory data analysis to identify patterns, trends, and insights in a data set.
 6. Develop effective time management skills to meet project deadlines and milestones.
+
+### Walid
+
+1. Collect wide-ranging insights on the topic using collaborative brainstorming and research.. 
+2. Look for patterns and strategies to solve the problem efficiently.
+3. Collabertive interpretation of data insights, thereby enhancing the accuarcy and impact of findings. 
+4. Get comfortable with using Github for project management and collaboration with the team members.
+5. Learn data analysis methods; various techniques and methods for analyzing data effectively.
