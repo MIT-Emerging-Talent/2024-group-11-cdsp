@@ -80,6 +80,9 @@
 6. Develop effective time management skills to meet project deadlines and milestones.
 
 
+
+
+
 ### Murtaza
 1.	Foster a collaborative environment by actively participating in team discussions and leading group initiatives.
 2.	Gain proficiency in implementing machine learning algorithms through hands-on practice and experimentation.
@@ -94,3 +97,12 @@
 3. Cultivate hands-on experience and proficiency in working within cross-cultural teams to broaden my adaptability and collaboration skills in diverse environments. 
 4. Dive into a new topic within data science, contributing to the team's project by gaining expertise in the chosen area and making an impact on the project.
 5. Develop proficiency in version control using GitHub, emphasizing collaboration through efficient code management, tracking changes, and contributing to the overall project history.
+
+
+### Walid
+
+1. Collect wide-ranging insights on the topic using collaborative brainstorming and research.. 
+2. Look for patterns and strategies to solve the problem efficiently.
+3. Collabertive interpretation of data insights, thereby enhancing the accuarcy and impact of findings. 
+4. Get comfortable with using Github for project management and collaboration with the team members.
+5. Learn data analysis methods; various techniques and methods for analyzing data effectively.
