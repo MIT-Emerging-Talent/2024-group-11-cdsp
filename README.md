@@ -77,8 +77,11 @@ Our team working with data and analysis globally but with acent on countries whe
 
 
 
-# Milestone 3: Data Analysis
-**Date: 5-16 February, 2024**
+# Milestone 2: Problem Identification
+**Date: 29 January - 2 February, 2024**
+
+
+## Milestone overview:
 
 
 ## Non-Technical Explanation of Domain Modeling
@@ -88,9 +91,15 @@ Our team working with data and analysis globally but with acent on countries whe
 - **Limitations:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models.
 
 
-## Dataset 
+## Data Set Documentation
 
 We linked to datasets from USDA, FeedAmerica and UN organizations. We use dataset from USDA, UN, NGOs. It is give us wide and big picture of our related problems.
+
+Link to Data Set(includes sources): [**Data Set**](https://1drv.ms/x/s!AgDpCOgvTPWroG6YVK6Ut_Wk3KeY?e=ghfJ5p)
+
+1. [**Household food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/household_food_waste.csv)
+2. [**Service food Waste by country**]()
+3. [**Retail food Waste by country**]()
 
 
 ## Data Collection and Cleaning Scripts 
@@ -100,17 +109,22 @@ We linked to datasets from USDA, FeedAmerica and UN organizations. We use datase
 To ensure transparency and the ability to replicate our work, we have provided all scripts for data collection and cleaning in our directory. This encompasses the entire process, including the partitioning of data into training and validation sets.
 
 
-## Milestone retrospective
-
-(_... In progress ..._)
-- [Retrospective_3]
-
-
 ## Our Research Work
 
 Our team is engaged in research in the field of Data Science, focusing on the implementation of zero waste programs. Learning from practical experience and utilizing modern data analysis methods, we aim to develop our skills and make a significant contribution to this field.
 
 For more details on our own experience, please refer to [**our_experience**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_2/our_experience.md).
+
+
+## Milestone retrospective
+
+(_... In progress ..._)
+- [Retrospective_2](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_2.md)
+
+
+
+# Milestone 3: Data Analysis
+**Date: 5-16 February, 2024**
 
 
 ## Data Analysis
@@ -119,18 +133,10 @@ This section presents the results of the data analysis conducted using Jupyter N
 [**Jupyter Notebook**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys.ipynb)
 
 
-## Contributing
+## Milestone retrospective
 
-We welcome contributions from individuals and organizations passionate about waste management and sustainability. To contribute, please follow these guidelines:
-
-- Fork the repository and create a new branch for your contributions.
-- Make your changes, ensuring they adhere to project guidelines and standards.
-- Submit a pull request detailing the changes you've made and why they're beneficial.
-
-Thank you for helping us make a positive impact on waste management!
-
-
-
+(_... In progress ..._)
+- [Retrospective_3](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_3.md)
 
 
 
@@ -166,3 +172,15 @@ including challenges you faced,
 lessons you learned, and any advice
 you have for future learners.
 3. A retrospective for this milestone.
+
+
+
+# Contributing
+
+We welcome contributions from individuals and organizations passionate about waste management and sustainability. To contribute, please follow these guidelines:
+
+- Fork the repository and create a new branch for your contributions.
+- Make your changes, ensuring they adhere to project guidelines and standards.
+- Submit a pull request detailing the changes you've made and why they're beneficial.
+
+Thank you for helping us make a positive impact on waste management!
