@@ -36,6 +36,11 @@ Our team is engaged in research in the field of Data Science, focusing on the im
 
 For more details on our own experience, please refer to [**our_experience**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_2/our_experience.md).
 
+## Data Analysis
+
+This section presents the results of the data analysis conducted using Jupyter Notebook.
+[**Jupyter Notebook**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys.ipynb)
+
 ## Contributing
 
 We welcome contributions from individuals and organizations passionate about waste management and sustainability. To contribute, please follow these guidelines:
