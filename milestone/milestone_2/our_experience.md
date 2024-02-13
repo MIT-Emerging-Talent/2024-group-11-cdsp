@@ -81,3 +81,25 @@ In the United States, I've observed the pivotal role played by initiatives like 
 
 3. "Too Good To Go" App Experience:
 Another noteworthy aspect of my journey involves the "Too Good To Go" app, as introduced by Anna. While not as widely recognized in the U.S., this app offers an innovative solution to tackle food waste. By connecting users with restaurants that have surplus food, it exemplifies how technology can be harnessed on an individual level to combat waste. My personal experience with the app was eye-opening, emphasizing the role each of us can play in minimizing food waste through accessible and user-friendly solutions.
+
+### Walid
+
+In Canada, my experiences with waste reduction have highlighted the critical issue of food waste, where I've observed firsthand the complexities and challenges of addressing food waste. Canada's approach, which integrates efforts from governmental policies to community-level initiatives and industry commitments, showcases a comprehensive strategy aimed at mitigating waste. This collaborative stance is pivotal for fostering sustainable practices and reducing the environmental footprint, marking a significant stride towards sustainability.
+
+1. Food Waste Problem:
+Canadians waste 63% of food that could have been eaten, equating to 140 kg per household annually, costing over $1,300. Nationally, this is almost 2.3 million tonnes of food, or over $20 billion lost each year​​.
+
+2. Main Contributors: 
+The largest categories of wasted food are vegetables (30%), fruits (15%), leftovers (13%), bread (9%), and dairy (7%)​​.
+
+3. Environmental Impact: 
+Canada’s avoidable household food waste contributes to 6.9 million tonnes of CO₂ emissions, equivalent to the emissions from 2.1 million cars​​.
+
+4. Government Initiatives: 
+Provincial policies in Ontario and Quebec aim to reduce food waste through education, business engagement, and food donations. Municipal strategies in Toronto, Metro Vancouver, and York Region target waste reduction within their regions​​.
+
+5. Collaborative Efforts: 
+The National Zero Waste Council and Provision Coalition lead efforts in waste prevention, with significant commitments from Canadian companies to halve food waste by 2025. Food rescue organizations play a key role in redistributing surplus food​​.
+
+6. Action Areas: 
+Efforts include addressing issues with best before dates, investing in infrastructure to support the charitable sector, launching national consumer campaigns, and promoting educational initiatives for nutritious food donations​​.
