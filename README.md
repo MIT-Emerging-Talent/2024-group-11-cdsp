@@ -43,9 +43,15 @@ You can check and see problem-statement based on our personal experiences by cou
 
 ## Actionable Research Questions
 
-1. What effective methods can integrate cultural and geographical differences into Zero Waste programs?
-2. What strategies for incentivizing innovation in waste management can ensure greater success of Zero Waste programs?
-3. What evaluation tools can be applied to measure the effectiveness of Zero Waste programs and their impact on the environment?
+During the project, we reviewed our trajectory and, guided by our datasets, opted to refine our questions by making them more specific and focused.
+
+~~1. What effective methods can integrate cultural and geographical differences into Zero Waste programs?~~
+~~2. What strategies for incentivizing innovation in waste management can ensure greater success of Zero Waste programs?~~
+~~3. What evaluation tools can be applied to measure the effectiveness of Zero Waste programs and their impact on the environment?~~
+
+1. What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
+2. What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
+3. Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
 
 
 ## Documents that related to our group:
