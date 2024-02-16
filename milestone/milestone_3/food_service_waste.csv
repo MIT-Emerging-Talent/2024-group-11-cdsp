@@ -24,7 +24,6 @@ Eastern Europe,642,Romania, 26 ," 495,161 ", Low Confidence
 Eastern Europe,643,Russian Federation, 28 ," 4,033,088 ", Very Low Confidence 
 Eastern Europe,703,Slovakia, 26 ," 139,538 ", Low Confidence 
 Eastern Europe,804,Ukraine, 28 ," 1,216,338 ", Very Low Confidence 
-Latin America and the Caribbean,660,Anguilla, * , * , No Estimate 
 Latin America and the Caribbean,28,Antigua and Barbuda, 26 ," 2,483 ", Low Confidence 
 Latin America and the Caribbean,32,Argentina, 28 ," 1,238,100 ", Very Low Confidence 
 Latin America and the Caribbean,533,Aruba, 26 ," 2,718 ", Low Confidence 
@@ -32,7 +31,6 @@ Latin America and the Caribbean,44,Bahamas, 26 ," 9,960 ", Low Confidence
 Latin America and the Caribbean,52,Barbados, 26 ," 7,339 ", Low Confidence 
 Latin America and the Caribbean,84,Belize, 28 ," 10,794 ", Very Low Confidence 
 Latin America and the Caribbean,68,Bolivia (Plurin. State of), 28 ," 318,315 ", Very Low Confidence 
-Latin America and the Caribbean,535,"Bonaire, St. Eustatius & Saba", * , * , No Estimate 
 Latin America and the Caribbean,76,Brazil, 28 ," 5,835,112 ", Very Low Confidence 
 Latin America and the Caribbean,92,British Virgin Islands, 26 , 767 , Low Confidence 
 Latin America and the Caribbean,136,Cayman Islands, 26 ," 1,660 ", Low Confidence 
@@ -40,29 +38,23 @@ Latin America and the Caribbean,152,Chile, 26 ," 484,611 ", Low Confidence
 Latin America and the Caribbean,170,Colombia, 28 ," 1,391,787 ", Very Low Confidence 
 Latin America and the Caribbean,188,Costa Rica, 28 ," 139,556 ", Very Low Confidence 
 Latin America and the Caribbean,192,Cuba, 28 ," 313,349 ", Very Low Confidence 
-Latin America and the Caribbean,531,Curaçao, 26 ," 4,178 ", Low Confidence 
+Latin America and the Caribbean,531,Curaï¿½ao, 26 ," 4,178 ", Low Confidence 
 Latin America and the Caribbean,212,Dominica, 28 ," 1,985 ", Very Low Confidence 
 Latin America and the Caribbean,214,Dominican Republic, 28 ," 296,913 ", Very Low Confidence 
 Latin America and the Caribbean,218,Ecuador, 28 ," 480,349 ", Very Low Confidence 
 Latin America and the Caribbean,222,El Salvador, 28 ," 178,430 ", Very Low Confidence 
-Latin America and the Caribbean,238,Falkland Islands (Malvinas), * , * , No Estimate 
-Latin America and the Caribbean,254,French Guiana, * , * , No Estimate 
 Latin America and the Caribbean,308,Grenada, 28 ," 3,097 ", Very Low Confidence 
-Latin America and the Caribbean,312,Guadeloupe, * , * , No Estimate 
 Latin America and the Caribbean,320,Guatemala, 28 ," 486,095 ", Very Low Confidence 
 Latin America and the Caribbean,328,Guyana, 28 ," 21,643 ", Very Low Confidence 
 Latin America and the Caribbean,332,Haiti, 28 ," 311,403 ", Very Low Confidence 
 Latin America and the Caribbean,340,Honduras, 28 ," 269,461 ", Very Low Confidence 
 Latin America and the Caribbean,388,Jamaica, 28 ," 81,515 ", Very Low Confidence 
-Latin America and the Caribbean,474,Martinique, * , * , No Estimate 
 Latin America and the Caribbean,484,Mexico, 28 ," 3,527,217 ", Very Low Confidence 
-Latin America and the Caribbean,500,Montserrat, * , * , No Estimate 
 Latin America and the Caribbean,558,Nicaragua, 28 ," 180,970 ", Very Low Confidence 
 Latin America and the Caribbean,591,Panama, 26 ," 108,582 ", Low Confidence 
 Latin America and the Caribbean,600,Paraguay, 28 ," 194,770 ", Very Low Confidence 
 Latin America and the Caribbean,604,Peru, 28 ," 898,853 ", Very Low Confidence 
 Latin America and the Caribbean,630,Puerto Rico, 26 ," 75,008 ", Low Confidence 
-Latin America and the Caribbean,652,Saint Barthélemy, * , * , No Estimate 
 Latin America and the Caribbean,659,Saint Kitts and Nevis, 26 ," 1,350 ", Low Confidence 
 Latin America and the Caribbean,662,Saint Lucia, 28 ," 5,054 ", Very Low Confidence 
 Latin America and the Caribbean,663,Saint Martin (French part), 26 , 972 , Low Confidence 
@@ -92,11 +84,9 @@ Northern Africa,434,Libya, 28 ," 187,385 ", Very Low Confidence
 Northern Africa,504,Morocco, 28 ," 1,008,375 ", Very Low Confidence 
 Northern Africa,729,Sudan, 28 ," 1,183,703 ", Very Low Confidence 
 Northern Africa,788,Tunisia, 28 ," 323,336 ", Very Low Confidence 
-Northern Africa,732,Western Sahara, * , * , No Estimate 
 Northern America,60,Bermuda, 26 ," 1,598 ", Low Confidence 
 Northern America,124,Canada, 26 ," 956,615 ", Low Confidence 
 Northern America,304,Greenland, 26 ," 1,450 ", Low Confidence 
-Northern America,666,Saint Pierre and Miquelon, * , * , No Estimate 
 Northern America,840,United States of America, 64 ," 20,934,827 ", High Confidence 
 Northern Europe,208,Denmark, 21 ," 119,134 ", High Confidence 
 Northern Europe,233,Estonia, 17 ," 22,013 ", High Confidence 
@@ -111,14 +101,10 @@ Northern Europe,578,Norway, 5 ," 26,685 ", Medium Confidence
 Northern Europe,752,Sweden, 21 ," 205,746 ", High Confidence 
 Northern Europe,826,United Kingdom, 17 ," 1,114,248 ", High Confidence 
 Polynesia,16,American Samoa, 28 ," 1,529 ", Very Low Confidence 
-Polynesia,184,Cook Islands, * , * , No Estimate 
 Polynesia,258,French Polynesia, 26 ," 7,142 ", Low Confidence 
-Polynesia,570,Niue, * , * , No Estimate 
 Polynesia,882,Samoa, 28 ," 5,449 ", Very Low Confidence 
-Polynesia,772,Tokelau, * , * , No Estimate 
 Polynesia,776,Tonga, 28 ," 2,889 ", Very Low Confidence 
 Polynesia,798,Tuvalu, 28 , 321 , Very Low Confidence 
-Polynesia,876,Wallis and Futuna Islands, * , * , No Estimate 
 South-eastern Asia,96,Brunei Darussalam, 26 ," 11,080 ", Low Confidence 
 South-eastern Asia,116,Cambodia, 28 ," 455,820 ", Very Low Confidence 
 South-eastern Asia,360,Indonesia, 28 ," 7,482,277 ", Very Low Confidence 
@@ -145,7 +131,6 @@ Southern Europe,70,Bosnia and Herzegovina, 28 ," 91,266 ", Very Low Confidence
 Southern Europe,191,Croatia, 26 ," 105,613 ", Low Confidence 
 Southern Europe,292,Gibraltar, 26 , 862 , Low Confidence 
 Southern Europe,300,Greece, 26 ," 267,812 ", Low Confidence 
-Southern Europe,336,Holy See, * , * , No Estimate 
 Southern Europe,380,Italy, 26 ," 1,548,291 ", Low Confidence 
 Southern Europe,470,Malta, 26 ," 11,261 ", Low Confidence 
 Southern Europe,499,Montenegro, 28 ," 17,363 ", Very Low Confidence 
@@ -166,7 +151,7 @@ Sub-Saharan Africa,140,Central African Republic, 28 ," 131,196 ", Very Low Confi
 Sub-Saharan Africa,148,Chad, 28 ," 440,901 ", Very Low Confidence 
 Sub-Saharan Africa,174,Comoros, 28 ," 23,526 ", Very Low Confidence 
 Sub-Saharan Africa,178,Congo, 28 ," 148,760 ", Very Low Confidence 
-Sub-Saharan Africa,384,Côte d’Ivoire, 28 ," 711,012 ", Very Low Confidence 
+Sub-Saharan Africa,384,Cï¿½te dï¿½Ivoire, 28 ," 711,012 ", Very Low Confidence 
 Sub-Saharan Africa,180,Dem. Rep. of the Congo, 28 ," 2,399,593 ", Very Low Confidence 
 Sub-Saharan Africa,262,Djibouti, 28 ," 26,918 ", Very Low Confidence 
 Sub-Saharan Africa,226,Equatorial Guinea, 28 ," 37,491 ", Very Low Confidence 
@@ -186,14 +171,11 @@ Sub-Saharan Africa,454,Malawi, 28 ," 515,048 ", Very Low Confidence
 Sub-Saharan Africa,466,Mali, 28 ," 543,506 ", Very Low Confidence 
 Sub-Saharan Africa,478,Mauritania, 28 ," 125,127 ", Very Low Confidence 
 Sub-Saharan Africa,480,Mauritius, 26 ," 32,467 ", Low Confidence 
-Sub-Saharan Africa,175,Mayotte, * , * , No Estimate 
 Sub-Saharan Africa,508,Mozambique, 28 ," 839,561 ", Very Low Confidence 
 Sub-Saharan Africa,516,Namibia, 28 ," 68,968 ", Very Low Confidence 
 Sub-Saharan Africa,562,Niger, 28 ," 644,496 ", Very Low Confidence 
 Sub-Saharan Africa,566,Nigeria, 28 ," 5,556,257 ", Very Low Confidence 
-Sub-Saharan Africa,638,Réunion, * , * , No Estimate 
 Sub-Saharan Africa,646,Rwanda, 28 ," 349,112 ", Very Low Confidence 
-Sub-Saharan Africa,654,Saint Helena, * , * , No Estimate 
 Sub-Saharan Africa,678,Sao Tome and Principe, 28 ," 5,947 ", Very Low Confidence 
 Sub-Saharan Africa,686,Senegal, 28 ," 450,564 ", Very Low Confidence 
 Sub-Saharan Africa,690,Seychelles, 26 ," 2,498 ", Low Confidence 
@@ -233,6 +215,3 @@ Western Europe,442,Luxembourg, 21 ," 12,868 ", Medium Confidence
 Western Europe,492,Monaco, 26 , 997 , Low Confidence 
 Western Europe,528,Netherlands, 26 ," 437,180 ", Low Confidence 
 Western Europe,756,Switzerland, 40 ," 343,656 ", Medium Confidence 
-,830,Channel Islands, * , * , No Estimate 
-,158,Other non-specified areas, * , * , No Estimate 
-Note: Territories with * have no estimates generated. These territories are included in the UNSD list of countries but are not included in the World Bank's income classification grouping.,,,,,
