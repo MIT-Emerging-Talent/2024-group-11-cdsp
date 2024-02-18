@@ -1,4 +1,10 @@
-# Retrospective
+
+# Retrospective - Milestone 2: Data Collection
+
+### Date: 29 January - 2 February, 2024
+
+**Participants: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+
 
 ## Stop Doing
 

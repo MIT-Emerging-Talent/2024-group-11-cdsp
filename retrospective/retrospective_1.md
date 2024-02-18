@@ -1,4 +1,9 @@
-# Retrospective
+
+# Retrospective - Milestone 1: Problem Identification
+
+### Date: 22-26 January, 2024
+
+**Participants: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova), [Murtaza Hakimi](https://github.com/MurtazaHakimi), [Ahmad Walid Shahab](https://github.com/AhWalidShahab)**
 
 ## Stop Doing
 
