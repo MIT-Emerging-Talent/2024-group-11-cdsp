@@ -1,13 +1,19 @@
 # Zero Waste Initiative
 
+### Milestones timeframe
+
+![alt text](image.png)
+
+## **Main contributors: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+
 ## Overview
 
 Zero Waste offers a systematic approach to avoiding or reusing waste with the aim of minimizing its disposal into landfills. It's a strategic resource management paradigm that is becoming increasingly relevant in today's world, where the need for sustainable development and efficient resource utilization is evident.
 
 
 
-# Milestone 0: Problem Identification
-**Date: 8-19 January, 2024**
+# [Milestone 0: Problem Identification](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_1)
+### **Date: 8-19 January, 2024**
 
 
 ## Core Issues
@@ -30,8 +36,8 @@ Brainstorm new and creative solutions to reduce waste and promote zero waste ini
 
 
 
-# Milestone 1: Problem Identification
-**Date: 22-26 January, 2024**
+# [Milestone 1: Problem Identification]()
+### **Date: 22-26 January, 2024**
 
 
 ## Milestone overview:
@@ -63,8 +69,7 @@ During the project, we reviewed our trajectory and, guided by our datasets, opte
 
 ## Milestone retrospective
 
-(_... In progress ..._)
-- [Retrospective_1](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_1.md)
+- [Retrospective 1](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_1.md)
 
 
 ## 🌱 Problem Statement
@@ -83,8 +88,8 @@ Our team working with data and analysis globally but with acent on countries whe
 
 
 
-# Milestone 2: Problem Identification
-**Date: 29 January - 2 February, 2024**
+# [Milestone 2: Problem Identification](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_2)
+### **Date: 29 January - 2 February, 2024**
 
 
 ## Milestone overview:
@@ -110,7 +115,6 @@ Link to Data Set(includes sources): [**Data Set**](https://1drv.ms/x/s!AgDpCOgvT
 
 ## Data Collection and Cleaning Scripts 
 
-(_... In Progress ..._)
 
 To ensure transparency and the ability to replicate our work, we have provided all scripts for data collection and cleaning in our directory. This encompasses the entire process, including the partitioning of data into training and validation sets.
 
@@ -124,14 +128,26 @@ For more details on our own experience, please refer to [**our_experience**](htt
 
 ## Milestone retrospective
 
+- [Retrospective 2](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_2.md)
+
+
+
+# [Milestone 3: Data Analysis](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3)
+### **Date: 5-16 February, 2024**
+
+
+## Non-technical explanation of your findings 
+### (included levels of certainty and possible sources of error in our analysis.)
+
 (_... In progress ..._)
-- [Retrospective_2](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_2.md)
 
+## Technical description of analysis 
 
+(_... In progress ..._)
 
-# Milestone 3: Data Analysis
-**Date: 5-16 February, 2024**
+## Scripts and documentation
 
+(_... In progress ..._)
 
 ## Data Analysis
 
@@ -141,13 +157,13 @@ This section presents the results of the data analysis conducted using Jupyter N
 
 ## Milestone retrospective
 
-(_... In progress ..._)
-- [Retrospective_3](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_3.md)
+
+- [Retrospective 3](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_3.md)
 
 
 
 # Milestone 4: Communicating Results
-**Date: 19 February - 2 March, 2024**
+### **Date: 19 February - 2 March, 2024**
 
 
 1. A document describing your target
@@ -168,7 +184,7 @@ why it’s the best way to reach them.
 
 
 # Milestone 5: Final Presentation Event
-**Date: 5-9 January, 2024**
+### **Date: 5-9 January, 2024**
 
 
 1. A 1-minute pitch for your solution.
