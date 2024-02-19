@@ -97,9 +97,9 @@ We linked to datasets from USDA, FeedAmerica and UN organizations. We use datase
 
 Link to Data Set(includes sources): [**Data Set**](https://1drv.ms/x/s!AgDpCOgvTPWroG6YVK6Ut_Wk3KeY?e=ghfJ5p)
 
-1. [**Household food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/household_food_waste.csv)
-2. [**Service food Waste by country**]()
-3. [**Retail food Waste by country**]()
+1. [**Household food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/household_waste.csv)
+2. [**Service food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/food_service_waste.csv)
+3. [**Retail food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/retail_food_waste.csv)
 
 ## Data Collection and Cleaning Scripts
 
@@ -170,7 +170,7 @@ While we express moderate to high confidence in our findings, it's crucial to ac
 ## Technical description of analysis
 
 This section presents the results of the data analysis conducted using Jupyter Notebook -
-[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analys.ipynb)
+[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analysis.ipynb)
 
 ## `Analysis Techniques Used`
 
@@ -251,7 +251,7 @@ While the chosen analysis techniques have provided valuable insights, it's cruci
 
 ### Documentation
 
-[**Analysis_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/README.md)
+[**Analysis_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/analysis_waste)
 
 [**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md)
 
