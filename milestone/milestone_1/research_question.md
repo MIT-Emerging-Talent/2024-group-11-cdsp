@@ -1,3 +1,15 @@
+# Actionable Research Questions
+
+During the project, we reviewed our trajectory and, guided by our datasets, opted to refine our questions by making them more specific and focused.
+
+
+
+1. What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
+2. What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
+3. Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
+
+
+
 ## Are there differences in approaches to Zero Waste programs in different regions of the world? Do geographical, cultural, and other factors influence the success of such programs?
 
 1. Legislative acts and policy documents: Data on legislation and political strategies regarding "Zero Waste" in different countries, such as laws, government decrees, national waste management strategies, etc.

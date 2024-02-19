@@ -2,7 +2,7 @@
 
 ### Milestones timeframe
 
-![alt text](image.png)
+![alt text](/extras/image.png)
 
 ## **Main contributors: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova)**
 
@@ -45,7 +45,9 @@ You can check and see problem-statement based on our personal experiences by cou
 During the project, we reviewed our trajectory and, guided by our datasets, opted to refine our questions by making them more specific and focused.
 
 ~~1. What effective methods can integrate cultural and geographical differences into Zero Waste programs?~~
+
 ~~2. What strategies for incentivizing innovation in waste management can ensure greater success of Zero Waste programs?~~
+
 ~~3. What evaluation tools can be applied to measure the effectiveness of Zero Waste programs and their impact on the environment?~~
 
 1. What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
@@ -83,9 +85,11 @@ Our team working with data and analysis globally but with acent on countries whe
 
 ## Non-Technical Explanation of Domain Modeling
 
-- **Approach:** Our way of understanding migration patterns in post-conflict regions involves looking at various aspects like social and economic conditions, the dynamics of conflict, and changes in demographics. We're taking a thorough approach, combining insights from experts in the field and considering both hard data and real-world experiences. This helps us build models that reflect the intricate nature of migration, going beyond just numbers.
+Domain modeling in our Zero Waste project involves creating a simplified, yet comprehensive representation of the key aspects related to waste management. Think of it as a way to visually capture the essential elements and relationships within the system we're addressing. In our case, this includes understanding how various factors such as economic indicators, cultural differences, and geographical aspects influence waste generation and management practices.
 
-- **Limitations:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models.
+Imagine it as a map that helps us navigate the complexities of waste reduction strategies. We identify the major landmarks, like economic development and cultural norms, and map out the connections between them. This visual guide aids us in developing a clear understanding of how these elements interact and impact our overall goal of achieving Zero Waste.
+
+By having this non-technical model, we're better equipped to communicate insights, spot potential challenges, and guide our decision-making process. It's like having a simplified blueprint that allows us to see the bigger picture and make informed choices on the most effective strategies to reduce waste and promote sustainability.
 
 ## Data Set Documentation
 
@@ -115,45 +119,102 @@ For more details on our own experience, please refer to [**our_experience**](htt
 
 ### **Date: 5-16 February, 2024**
 
-## Non-technical explanation of your findings
+## Overview:
 
-### (included levels of certainty and possible sources of error in our analysis.)
+![alt text](/extras/1-1-1180x617.png)
+The project is based on the analysis of the relationship between economic indicators and waste generation using a dataset extracted from the [2021 UNEP Food Waste Index Report](/extras/FWD%20(1).xlsx).
 
-(_... In progress ..._)
+## `Non-technical explanation of our findings`
+
+
+In our exploration of the relationship between economic indicators and global waste generation patterns, we've uncovered several noteworthy insights. Our dataset, encompassing diverse countries, allowed us to observe trends and variations in economic factors and waste production.
+
+## Key Findings:
+
+### 1. Working Hours and Wages:
+
+- On average, countries maintain a standard working week of around 38.2 hours, with variations.
+
+- Monthly minimum wages exhibit substantial diversity, ranging from 170 to 3298.4 USD.
+
+### 2. Financial Indicators:
+
+- Lending rates vary widely, averaging at 6.03%, reflecting the financial diversity among nations.
+
+- GDP per capita averages at 57.90 thousand USD, showcasing economic differences.
+
+### 3. Human Development Index (HDI):
+
+- The HDI indicates a high level of development across the considered countries, with an average of 0.894.
+
+![alt text](/extras/HDI.png)
+
+### 4. Waste Production:
+
+- Total waste production spans from 38.8 thousand tonnes to 45.4 million tonnes, emphasizing the significant environmental impact.
+
+![alt text](/extras/waste_production_sector.png)
+
+## `Levels of Certainty`
+
+While we express moderate to high confidence in our findings, it's crucial to acknowledge the complexities and potential uncertainties associated with our analysis. The following factors contribute to our level of certainty:
+
+- Data Limitations: Our findings rely on the available dataset, and any limitations or gaps in the data may influence the accuracy of our conclusions.
+
+- Assumptions: We made certain assumptions during our analysis, and any deviations from these assumptions could introduce uncertainties in our findings.
+
+- Sampling Variability: If the analysis involved sampling, there may be inherent variability. Our observations represent patterns in the sample, and variations could exist in a broader population.
+
+
 
 ## Technical description of analysis
 
-This section presents the results of the data analysis conducted using Jupyter Notebook.
-[**Analys**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analys.ipynb)
+This section presents the results of the data analysis conducted using Jupyter Notebook -
+[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analys.ipynb)
 
-### Overview:
+## `Analysis Techniques Used`
 
-The project is based on the analysis of the relationship between economic indicators and waste generation using a dataset extracted from the 2021 UNEP Food Waste Index Report.
+| Technique | Objective | Rationale |
+| --------- | --------- | --------- |
+| `Data Cleaning` | Handled missing values and normalized column names for uniformity. | Clean data is essential for accurate analysis, and normalization facilitates consistent comparisons. |
+| `Exploratory Data Analysis (EDA)` | Utilized histograms to understand data distribution. | Histograms provide a visual overview of the data, aiding in identifying patterns and potential outliers. |
+| `Correlation Analysis` | Explored correlations between economic indicators and waste generation. | Understanding correlations helps identify potential relationships and guide further analysis. |
+| `Regression Analysis` | Conducted regression analysis for predicting waste generation levels. | Regression allows for the exploration of relationships between independent and dependent variables, aiding in prediction. |
+| `Geospatial Analysis` | Visualized waste distribution across regions using geospatial maps. | Geospatial analysis provides a spatial context to waste generation patterns, offering a comprehensive view. |
 
-### Key Steps:
 
-1. Data Cleaning and Exploratory Analysis:
 
-   - Addressed missing values and explored data distribution.
+## `Possible Flaws in Analysis`
 
-2. Correlation Analysis:
+### 1. Data Limitations:
 
-   - Explored correlations between economic indicators and types of waste.
+- Explanation: The accuracy of our findings is contingent on the quality and completeness of the dataset. Missing values or incomplete information may impact the robustness of our conclusions.
 
-3. Categorization and Graphical Analysis:
+### 2. Assumptions:
 
-   - Categorized countries by economic development and graphically represented relationships.
+- Explanation: Certain assumptions were made during regression analysis. Deviations from these assumptions, such as the independence of variables, could introduce errors.
 
-4. Regression Analysis:
-   - Determined the impact of economic indicators on total waste generation.
+### 3. Multicollinearity:
 
-### Conclusions:
+- Explanation: The large condition number in the regression analysis suggests potential issues with multicollinearity, where independent variables are correlated. This can affect the stability and interpretability of coefficients.
 
-- Economic Relationship: Identified a weak correlation between economic indicators and waste generation.
 
-- Development Level Categorization: Countries classified by economic development for deeper insights.
 
-- Regression Analysis: Model showed low explanatory power for total waste estimate.
+
+## `Possible Alternative Approaches`
+
+### 1. Machine Learning Models:
+
+- Explanation: Instead of traditional regression, machine learning models like Random Forest or Gradient Boosting could be explored for predictive modeling, potentially capturing non-linear relationships.
+
+### 2. Robust Regression:
+
+- Explanation: To address potential outliers impacting regression results, robust regression techniques like Huber regression could be considered.
+
+### 3. Advanced Geospatial Techniques:
+
+- Explanation: Utilizing more advanced geospatial analysis techniques, such as spatial autocorrelation, could provide deeper insights into regional waste distribution patterns.
+
 
 ### Applying the Results:
 
@@ -165,25 +226,39 @@ _For a detailed analysis, refer to the [Full Project Analysis](https://github.co
 
 ## Milestone retrospective
 
-- [Retrospective 3](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_3.md)
+- [Retrospective 3](/retrospective/retrospective_3.md)
+
 
 ## Scripts and documentation
 
 ### Scripts
 
-[**Analys_Food_Service_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/analys_food_servise_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Food_Service_Waste**](/milestone/milestone_3/analys_waste/analys_food_service_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Analys_Household_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/analys_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Household_Waste**](/milestone/milestone_3/analys_waste/analys_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Analys_Food_Service_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/analys_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Food_Retail_Waste**](/milestone/milestone_3/analys_waste/analys_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Summary \_analys**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analys.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+[**Summary analysis**](/milestone/milestone_3/total_analys.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+
+## `Conclusion:`
+
+While the chosen analysis techniques have provided valuable insights, it's crucial to acknowledge potential flaws and consider alternative approaches to enhance the robustness of our findings. Adapting methods based on ongoing discoveries and advancements in data science ensures a dynamic and thorough analysis approach.
+
+[Answers](/milestone/milestone_3/research_questions.md) for [Actionable Research Questions](/milestone/milestone_1/research_question.md).
+
+***Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones.***
 
 ### Documentation
 
-[**Analys_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/README.md)
+[**Analysis_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analys_waste/README.md)
 
-[**Analys**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md)
+[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md)
+
+What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
+What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
+Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
+
 
 # Milestone 4: Communicating Results
 
