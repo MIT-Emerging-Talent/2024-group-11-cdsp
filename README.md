@@ -233,19 +233,19 @@ _For a detailed analysis, refer to the [Full Project Analysis](https://github.co
 
 ### Scripts
 
-[**Analysis_Food_Service_Waste**](/milestone/milestone_3/analys_waste/analys_food_service_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Food_Service_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_food_service_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Analysis_Household_Waste**](/milestone/milestone_3/analys_waste/analys_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Household_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Analysis_Food_Retail_Waste**](/milestone/milestone_3/analys_waste/analys_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Analysis_Food_Retail_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Summary analysis**](/milestone/milestone_3/total_analys.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+[**Summary analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
 
 ## `Conclusion:`
 
 While the chosen analysis techniques have provided valuable insights, it's crucial to acknowledge potential flaws and consider alternative approaches to enhance the robustness of our findings. Adapting methods based on ongoing discoveries and advancements in data science ensures a dynamic and thorough analysis approach.
 
-[Answers](/milestone/milestone_3/research_questions.md) for [Actionable Research Questions](/milestone/milestone_1/research_question.md).
+[Answers](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/research_questions.md) for [Actionable Research Questions](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_1/research_question.md).
 
 ***Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones.***
 
