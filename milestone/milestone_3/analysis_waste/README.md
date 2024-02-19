@@ -6,15 +6,15 @@ This project involves the analysis of data from three CSV files containing infor
 
 ## Used Files
 
-1. **Retail Data:** `retail_food_waste.csv`
+1. **Retail Data:** [`retail_food_waste.csv`](/milestone/milestone_3/analysis_waste/retail_food_waste.csv)
 
    - Structure: Region, M49 code, Country, Retail estimate (kg/capita/year), Retail estimate (tonnes/year), Confidence in estimate
 
-2. **Household Data:** `household_waste.csv`
+2. **Household Data:** [`household_waste.csv`](/milestone/milestone_3/analysis_waste/household_waste.csv)
 
    - Structure: Region, M49 code, Country, Household estimate (kg/capita/year), Household estimate (tonnes/year), Confidence in estimate
 
-3. **Food Service Data:** `food_service_waste.csv`
+3. **Food Service Data:** [`food_service_waste.csv`](/milestone/milestone_3/analysis_waste/food_service_waste.csv)
    - Structure: Region, M49 code, Country, Food service estimate (kg/capita/year), Food service estimate (tonnes/year), Confidence in estimate
 
 ## Data Analysis
@@ -70,10 +70,14 @@ This project involves the analysis of data from three CSV files containing infor
 
 ## Usage
 
-1. Download the files `retail_food_waste.csv`, `household_waste.csv`, and `food_service_waste.csv`.
+1. Download the files [`retail_food_waste.csv`](/milestone/milestone_3/analysis_waste/retail_food_waste.csv), [`household_waste.csv`](/milestone/milestone_3/analysis_waste/household_waste.csv), and [`food_service_waste.csv`](/milestone/milestone_3/analysis_waste/food_service_waste.csv).
 2. Run the script to perform data analysis and visualization.
 
 ## Requirements
-
-- Python 3.x
-- Libraries: pandas, matplotlib
+| Package | Version |
+| ------- | ------- |
+| `python` | 3.x |
+| `pandas` | 2.1.x |
+| `matplotlib` | 3.8.x |
+| `seaborn` | 0.13.x |
+| `numpy` | 1.26.x |
