@@ -4,7 +4,8 @@
 
 ![alt text](/extras/image.png)
 
-## **Main contributors: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+## **Main contributors: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+## **Supporting Contributors: [Denys Dashkevych](https://github.com/MajorPrestige), [Murtaza Hakimi](https://github.com/MurtazaHakimi), [Ahmad Walid Shahab](https://github.com/AhWalidShahab)**
 
 ## Overview
 
