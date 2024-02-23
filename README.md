@@ -5,6 +5,7 @@
 ![alt text](/extras/image.png)
 
 ## **Main contributors: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+
 ## **Supporting Contributors: [Denys Dashkevych](https://github.com/MajorPrestige), [Murtaza Hakimi](https://github.com/MurtazaHakimi), [Ahmad Walid Shahab](https://github.com/AhWalidShahab)**
 
 ## Overview
@@ -123,10 +124,9 @@ For more details on our own experience, please refer to [**our_experience**](htt
 ## Overview:
 
 ![alt text](/extras/1-1-1180x617.png)
-The project is based on the analysis of the relationship between economic indicators and waste generation using a dataset extracted from the [2021 UNEP Food Waste Index Report](/extras/FWD%20(1).xlsx).
+The project is based on the analysis of the relationship between economic indicators and waste generation using a dataset extracted from the [2021 UNEP Food Waste Index Report](</extras/FWD%20(1).xlsx>).
 
 ## `Non-technical explanation of our findings`
-
 
 In our exploration of the relationship between economic indicators and global waste generation patterns, we've uncovered several noteworthy insights. Our dataset, encompassing diverse countries, allowed us to observe trends and variations in economic factors and waste production.
 
@@ -166,24 +166,19 @@ While we express moderate to high confidence in our findings, it's crucial to ac
 
 - Sampling Variability: If the analysis involved sampling, there may be inherent variability. Our observations represent patterns in the sample, and variations could exist in a broader population.
 
-
-
 ## Technical description of analysis
 
 This section presents the results of the data analysis conducted using Jupyter Notebook -
 [**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analysis.ipynb)
 
-## `Analysis Techniques Used`
-
-| Technique | Objective | Rationale |
-| --------- | --------- | --------- |
-| `Data Cleaning` | Handled missing values and normalized column names for uniformity. | Clean data is essential for accurate analysis, and normalization facilitates consistent comparisons. |
-| `Exploratory Data Analysis (EDA)` | Utilized histograms to understand data distribution. | Histograms provide a visual overview of the data, aiding in identifying patterns and potential outliers. |
-| `Correlation Analysis` | Explored correlations between economic indicators and waste generation. | Understanding correlations helps identify potential relationships and guide further analysis. |
-| `Regression Analysis` | Conducted regression analysis for predicting waste generation levels. | Regression allows for the exploration of relationships between independent and dependent variables, aiding in prediction. |
-| `Geospatial Analysis` | Visualized waste distribution across regions using geospatial maps. | Geospatial analysis provides a spatial context to waste generation patterns, offering a comprehensive view. |
-
-
+| Technique                         | Objective                                                                   | Rationale                                                                                                                               |
+| --------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `Data Cleaning`                   | Handled missing values and normalized column names for uniformity.          | Clean data is essential for accurate analysis, and normalization facilitates consistent comparisons.                                    |
+| `Exploratory Data Analysis (EDA)` | Utilized histograms to understand data distribution.                        | Histograms provide a visual overview of the data, aiding in identifying patterns and potential outliers.                                |
+| `Correlation Analysis`            | Explored correlations between economic indicators and waste generation.     | Understanding correlations helps identify potential relationships and guide further analysis.                                           |
+| `Regression Analysis`             | Conducted regression analysis for predicting waste generation levels.       | Regression allows for the exploration of relationships between independent and dependent variables, aiding in prediction.               |
+| `Geospatial Analysis`             | Visualized waste distribution across regions using geospatial maps.         | Geospatial analysis provides a spatial context to waste generation patterns, offering a comprehensive view.                             |
+| `Machine Learning Prediction`     | Used linear regression to predict waste generation levels for future years. | Machine learning models offer a quantitative approach to predict trends and patterns in data, contributing to informed decision-making. |
 
 ## `Possible Flaws in Analysis`
 
@@ -199,9 +194,6 @@ This section presents the results of the data analysis conducted using Jupyter N
 
 - Explanation: The large condition number in the regression analysis suggests potential issues with multicollinearity, where independent variables are correlated. This can affect the stability and interpretability of coefficients.
 
-
-
-
 ## `Possible Alternative Approaches`
 
 ### 1. Machine Learning Models:
@@ -216,7 +208,6 @@ This section presents the results of the data analysis conducted using Jupyter N
 
 - Explanation: Utilizing more advanced geospatial analysis techniques, such as spatial autocorrelation, could provide deeper insights into regional waste distribution patterns.
 
-
 ### Applying the Results:
 
 The findings can be used for further research and development of waste management strategies in the context of economic development.
@@ -228,7 +219,6 @@ _For a detailed analysis, refer to the [Full Project Analysis](https://github.co
 ## Milestone retrospective
 
 - [Retrospective 3](/retrospective/retrospective_3.md)
-
 
 ## Scripts and documentation
 
@@ -248,7 +238,7 @@ While the chosen analysis techniques have provided valuable insights, it's cruci
 
 [Answers](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/research_questions.md) for [Actionable Research Questions](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_1/research_question.md).
 
-***Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones.***
+**_Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones._**
 
 ### Documentation
 
@@ -256,10 +246,15 @@ While the chosen analysis techniques have provided valuable insights, it's cruci
 
 [**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md)
 
+[**Machine Learning Prediction**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction)
+
+[**Prediction Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction/analysis_code.md)
+
+[**Prediction documentation**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction/README.md)
+
 What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
 What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
 Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
-
 
 # Milestone 4: Communicating Results
 
