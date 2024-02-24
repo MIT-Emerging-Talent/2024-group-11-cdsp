@@ -3,7 +3,7 @@
 
 ### Date: 5-16 February, 2024
 
-**Participants: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Yanina Chukanova](https://github.com/YaninaChukanova)**
+**Participants: [Anna Shliapkina](https://github.com/AnnaShliapkina), [Dmytro Lytvynenko](https://github.com/DmytroLyt), [Denys Dashkevych](https://github.com/MajorPrestige), [Yanina Chukanova](https://github.com/YaninaChukanova)**
 
 ## Stop Doing
 
