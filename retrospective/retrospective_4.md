@@ -47,5 +47,5 @@
 
 ### Or remove extra steps?
 
-- Prioritized Feedback Implementation: Prioritized the implementation of critical feedback from non-technical stakeholders to ensure timely improvements in our communication.
+- Prioritized Feedback Implementation: Prioritized the implementation of critical feedback from another team to ensure timely improvement of our project.
 - Targeted feedback to the team: Need to provide constructive feedback to team 12, based on the created documentation.
