@@ -258,11 +258,11 @@ Are there correlations between the economic prosperity of a region and its succe
 
 ## Milestone overview: 
 
-### Selecting the Target Audience:
+## Selecting the Target Audience:
 
 Our target audience is Nonprofit Organizations that specialize in addressing social and environmental issues, including food waste. We are looking to engage organizations that have the greatest potential to influence the groups that waste food the most, such as households, food service and retail.
 
-### Measures that Nonprofit Organizations can take to influence the reduction of food waste:
+## Measures that Nonprofit Organizations can take to influence the reduction of food waste:
 
 - Promoting conscious consumption: Organizations can conduct information campaigns and educational activities for consumers on healthy eating, responsible food handling and minimizing wastage.
 - Supporting restaurants and catering establishments: Organizations can promote the implementation of programs for the storage and use of leftovers in restaurants and other food service establishments.
@@ -274,21 +274,24 @@ Our target audience is Nonprofit Organizations that specialize in addressing soc
 - Monitoring and evaluation: Monitoring and evaluating the level of food waste in their sectors and jointly developing strategies to reduce it.
 - Sponsoring educational programs: Supporting educational programs aimed at raising awareness of food waste.
 
-### Limitations we may face:
+## Limitations we may face:
 
 -  Financial Limitations: Non-profit organizations may have limited financial resources to participate in projects.
 -  Resource constraints: Some organizations may have limited resources to actively participate in projects.
 -  Partnership Opportunities: Nonprofit organizations can find new opportunities to collaborate and develop their activities.
 
-### Ways to Achieve Cooperation:
+## Ways to Achieve Cooperation:
 
 Direct Appeal: We will approach non-profit organizations directly, offering cooperation and sharing resources to achieve a common goal.
 Partnerships: Establishing partnerships with organizations, including sharing knowledge, resources and expertise.
 Organizing Events: Holding joint events, workshops and trainings with non-profit organizations to raise awareness and collaboration in       reducing food waste. 
 
-### The final decision
- how we will present to them: a poster or a Power Point presentation (to be decided after Monday's workshop).
+## The final decision
+How we will present to them: a poster or a Power Point presentation (to be decided after Monday's workshop).
 
+## Milestone retrospective
+
+- [Retrospective 4](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_4.md)
 
 
 # Milestone 5: Final Presentation Event
