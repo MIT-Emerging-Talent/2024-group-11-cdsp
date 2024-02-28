@@ -17,32 +17,62 @@ This project involves the analysis of data from three CSV files containing infor
 3. **Food Service Data:** [`food_service_waste.csv`](./milestone/milestone_3/analysis_waste/food_service_waste.csv)
    - Structure: Region, M49 code, Country, Food service estimate (kg/capita/year), Food service estimate (tonnes/year), Confidence in estimate
 
-| #   | Data Analysis                          |
-| --- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1.  | **Check Data Types:**                  | Checked data types for each column in CSV files.                                            |
-| 2.  | **Data Cleaning:**                     | Cleaned 'Retail estimate' column values, removing commas and converting to numeric format.  |
-| 3.  | **Display First Rows:**                | Displayed initial rows of 'Retail estimate' column in each CSV file.                        |
-| 4.  | **Grouping and Statistical Analysis:** | Grouped data by 'Region' and calculated statistical summaries for each group.               |
-| 5.  | **Data Type of 'kg/capita/year':**     | Checked data type of '\* estimate (kg/capita/year)' column.                                 |
-| 6.  | **Unique Values of 'kg/capita/year':** | Displayed unique values of '\* estimate (kg/capita/year)' column.                           |
-| 7.  | **Conversion to Numeric Format:**      | Converted '\* estimate (kg/capita/year)' column to numeric format, ignoring errors.         |
-| 8.  | **Grouping by Region:**                | Grouped data by 'Region' and calculated statistical summaries for 'Household estimate'.     |
-| 9.  | **Grouping by Regions and Countries:** | Calculated total waste production for each region.                                          |
-| 10. | **Percentage of Waste Production:**    | Calculated percentage of waste production by country within the region.                     |
-| 11. | **Food Service Waste Analysis:**       | Explored geographical distribution of waste emissions and variations in waste management.   |
-| 12. | **Food Service Waste Graph:**          | Illustrated diverse distribution of food service expenditures across countries.             |
-| 13. | **Household Waste Analysis:**          | Highlighted varying levels of household waste estimates across countries.                   |
-| 14. | **Retail Waste Analysis:**             | Depicted distribution of retail waste estimates (kg/capita/year) across selected countries. |
+## Data Analysis
 
-**Footnotes:**
+1. **Check Data Types:**
 
-1. The analysis focuses on the geographical distribution of waste emissions, suggesting potential variations in waste management efficiency among countries. Changes in country numbers within specific ranges hint at evolving trends influenced by food consumption strategies. Additionally, differences in the legislative landscape highlight varying policy needs for waste management from food services. This comprehensive assessment provides insights into the complex dynamics of waste management practices and the potential influence of regional strategies and policies.
+   - Checked data types for each column in all CSV files.
 
-2. The graph illustrates the diverse distribution of food service expenditures across various countries. Notable differences in bin sizes indicate variations in consumption levels, with the United States leading in expenditures. Germany and Denmark, as well as Poland and Canada, exhibit similarities in their consumption patterns. Ukraine stands out with a substantial level of food service expenditures. These observations highlight the heterogeneous nature of food service consumption habits, prompting further exploration of the factors contributing to these differences.
+2. **Data Cleaning:**
 
-3. The analysis highlights the varying levels of household waste estimates across countries. Poland and the USA exhibit similarities in their estimates, while Germany and Ukraine show comparable, moderately elevated values. Canada and Denmark, however, surpass others, indicating higher estimates of household waste per capita per year.
+   - Values in the 'Retail estimate (tonnes/year)' column were cleaned from commas with subsequent conversion to a numeric format.
 
-4. The graph depicts the distribution of retail waste estimates (kg/capita/year) across selected countries. Germany shows the lowest retail waste, while Canada and Poland exhibit moderate values. The United States and Ukraine have slightly higher retail waste, but Denmark stands out with significantly higher levels. Denmark's unique profile is influenced by factors such as limited local production, a substantial amount of imported perishable goods, and higher average affluence leading to increased food waste. Overall, the graph highlights diverse patterns in retail waste, reflecting variations in consumption habits and waste management practices among the countries.
+3. **Display First Rows:**
+
+   - Displayed the first few rows of the 'Retail estimate (tonnes/year)' column for each CSV file.
+
+4. **Grouping and Statistical Analysis:**
+
+   - Data were grouped by 'Region', and statistical summaries were calculated for each group.
+
+5. **Data Type of 'kg/capita/year':**
+
+   - Checked the data type of the '\* estimate (kg/capita/year)' column.
+
+6. **Unique Values of 'kg/capita/year':**
+
+   - Displayed unique values of the '\* estimate (kg/capita/year)' column.
+
+7. **Conversion to Numeric Format:**
+
+   - Converted the '\* estimate (kg/capita/year)' column to a numeric format, ignoring errors.
+
+8. **Grouping by Region:**
+
+   - Data were grouped by 'Region', and statistical summaries were calculated for 'Household estimate (kg/capita/year)'.
+
+9. **Grouping by Regions and Countries:**
+
+   - Total waste production was calculated for each region.
+
+10. **Percentage of Waste Production by Country:**
+
+    - Calculated the percentage of waste production by each country within the region.
+
+11. **Food Service Waste Analysis:**
+
+    - The analysis focuses on the geographical distribution of waste emissions, suggesting potential variations in waste management efficiency among countries. Changes in country numbers within specific ranges hint at evolving trends influenced by food consumption strategies. Additionally, differences in the legislative landscape highlight varying policy needs for waste management from food services. This comprehensive assessment provides insights into the complex dynamics of waste management practices and the potential influence of regional strategies and policies.
+
+12. **Food Service Waste Graph:**
+
+    - The graph illustrates the diverse distribution of food service expenditures across various countries. Notable differences in bin sizes indicate variations in consumption levels, with the United States leading in expenditures. Germany and Denmark, as well as Poland and Canada, exhibit similarities in their consumption patterns. Ukraine stands out with a substantial level of food service expenditures. These observations highlight the heterogeneous nature of food service consumption habits, prompting further exploration of the factors contributing to these differences.
+
+13. **Household Waste Analysis:**
+
+    - The analysis highlights the varying levels of household waste estimates across countries. Poland and the USA exhibit similarities in their estimates, while Germany and Ukraine show comparable, moderately elevated values. Canada and Denmark, however, surpass others, indicating higher estimates of household waste per capita per year.
+
+14. **Retail Waste Analysis:**
+    - The graph depicts the distribution of retail waste estimates (kg/capita/year) across selected countries. Germany shows the lowest retail waste, while Canada and Poland exhibit moderate values. The United States and Ukraine have slightly higher retail waste, but Denmark stands out with significantly higher levels. Denmark's unique profile is influenced by factors such as limited local production, a substantial amount of imported perishable goods, and higher average affluence leading to increased food waste. Overall, the graph highlights diverse patterns in retail waste, reflecting variations in consumption habits and waste management practices among the countries.
 
 ## Usage
 
