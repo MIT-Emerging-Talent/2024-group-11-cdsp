@@ -2,13 +2,13 @@
 
 ### Milestones timeframe
 
-![alt text](/extras/image.png)
+![alt text](./extras/image.png)
 
 ## Overview
 
 Zero Waste offers a systematic approach to avoiding or reusing waste with the aim of minimizing its disposal into landfills. It's a strategic resource management paradigm that is becoming increasingly relevant in today's world, where the need for sustainable development and efficient resource utilization is evident.
 
-# [Milestone 0: Problem Identification](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_1)
+# [Milestone 0: Problem Identification](./milestone/milestone_1)
 
 ### **Date: 8-19 January, 2024**
 
@@ -36,7 +36,7 @@ Brainstorm new and creative solutions to reduce waste and promote zero waste ini
 
 You can check and see problem-statement based on our personal experiences by country where we live.
 
-- [Group_member_experience](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_2/our_experience.md)
+- [Group_member_experience](./milestone/milestone_2/our_experience.md)
 
 ## Actionable Research Questions
 
@@ -54,14 +54,14 @@ During the project, we reviewed our trajectory and, guided by our datasets, opte
 
 ## Documents that related to our group:
 
-1. [Group Norms](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/.collaboration/README.md)
-2. [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/.collaboration/constraints.md)
-3. [Communication](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/.collaboration/communication.md)
-4. [Learning goals](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/.collaboration/learning_goals.md)
+1. [Group Norms](./collaboration/README.md)
+2. [Constraints](./collaboration/constraints.md)
+3. [Communication](./collaboration/communication.md)
+4. [Learning goals](./collaboration/learning_goals.md)
 
 ## Milestone retrospective
 
-- [Retrospective 1](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_1.md)
+- [Retrospective 1](./retrospective/retrospective_1.md)
 
 ## 🌱 Problem Statement
 
@@ -75,7 +75,7 @@ ZeroWaste practices in the food industry, including restaurants and delivery ser
 
 Our team working with data and analysis globally but with acent on countries where we currently live.
 
-# [Milestone 2: Problem Identification](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_2)
+# [Milestone 2: Problem Identification](./milestone/milestone_2)
 
 ### **Date: 29 January - 2 February, 2024**
 
@@ -95,9 +95,9 @@ We linked to datasets from USDA, FeedAmerica and UN organizations. We use datase
 
 Link to Data Set(includes sources): [**Data Set**](https://1drv.ms/x/s!AgDpCOgvTPWroG6YVK6Ut_Wk3KeY?e=ghfJ5p)
 
-1. [**Household food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/household_waste.csv)
-2. [**Service food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/food_service_waste.csv)
-3. [**Retail food Waste by country**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/retail_food_waste.csv)
+1. [**Household food Waste by country**](./milestone/milestone_3/analysis_waste/household_waste.csv)
+2. [**Service food Waste by country**](./milestone/milestone_3/analysis_waste/food_service_waste.csv)
+3. [**Retail food Waste by country**](./milestone/milestone_3/analysis_waste/retail_food_waste.csv)
 
 ## Data Collection and Cleaning Scripts
 
@@ -107,13 +107,13 @@ To ensure transparency and the ability to replicate our work, we have provided a
 
 Our team is engaged in research in the field of Data Science, focusing on the implementation of zero waste programs. Learning from practical experience and utilizing modern data analysis methods, we aim to develop our skills and make a significant contribution to this field.
 
-For more details on our own experience, please refer to [**our_experience**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_2/our_experience.md).
+For more details on our own experience, please refer to [**our_experience**](./milestone/milestone_2/our_experience.md).
 
 ## Milestone retrospective
 
-- [Retrospective 2](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_2.md)
+- [Retrospective 2](./retrospective/retrospective_2.md)
 
-# [Milestone 3: Data Analysis](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3)
+# [Milestone 3: Data Analysis](./milestone/milestone_3)
 
 ### **Date: 5-16 February, 2024**
 
@@ -144,13 +144,13 @@ In our exploration of the relationship between economic indicators and global wa
 
 - The HDI indicates a high level of development across the considered countries, with an average of 0.894.
 
-![alt text](/extras/HDI.png)
+![alt text](./extras/HDI.png)
 
 ### 4. Waste Production:
 
 - Total waste production spans from 38.8 thousand tonnes to 45.4 million tonnes, emphasizing the significant environmental impact.
 
-![alt text](/extras/waste_production_sector.png)
+![alt text](./extras/waste_production_sector.png)
 
 ## `Levels of Certainty`
 
@@ -165,7 +165,7 @@ While we express moderate to high confidence in our findings, it's crucial to ac
 ## Technical description of analysis
 
 This section presents the results of the data analysis conducted using Jupyter Notebook -
-[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analysis.ipynb)
+[**Analysis**](/milestone/milestone_3/total_analysis.ipynb)
 
 | Technique                         | Objective                                                                   | Rationale                                                                                                                               |
 | --------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -176,19 +176,75 @@ This section presents the results of the data analysis conducted using Jupyter N
 | `Geospatial Analysis`             | Visualized waste distribution across regions using geospatial maps.         | Geospatial analysis provides a spatial context to waste generation patterns, offering a comprehensive view.                             |
 | `Machine Learning Prediction`     | Used linear regression to predict waste generation levels for future years. | Machine learning models offer a quantitative approach to predict trends and patterns in data, contributing to informed decision-making. |
 
-## `Possible Flaws in Analysis`
+## `Technical explanation of our findings`
 
-### 1. Data Limitations:
+## Key Findings and Insights
 
-- Explanation: The accuracy of our findings is contingent on the quality and completeness of the dataset. Missing values or incomplete information may impact the robustness of our conclusions.
+## 1. Household Food Waste Across Regions: Unraveling the Tapestry of Per Capita Waste and Socioeconomic Disparities
 
-### 2. Assumptions:
+In this section of the project, we aimed to address the first research question: "What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?"
 
-- Explanation: Certain assumptions were made during regression analysis. Deviations from these assumptions, such as the independence of variables, could introduce errors.
+### Variability in Per Capita Household Food Waste:
 
-### 3. Multicollinearity:
+- Poland and the USA exhibit similar levels of per capita household food waste, while Germany and Ukraine have moderately elevated values.
+- Canada and Denmark show higher estimates, indicating advanced waste management systems, possibly due to effective sorting and recycling programs and responsible population attitudes.
 
-- Explanation: The large condition number in the regression analysis suggests potential issues with multicollinearity, where independent variables are correlated. This can affect the stability and interpretability of coefficients.
+### Consumption Patterns:
+
+- The United States leads in food service expenditures, with variations observed among countries like Germany, Denmark, Poland, Canada, and Ukraine.
+- Diverse distribution hints at evolving trends influenced by consumption strategies and legislative landscapes, emphasizing varying policy needs for food waste management.
+
+### Retail Waste Patterns:
+
+- Germany has the lowest retail waste, while Canada and Poland exhibit moderate values.
+- The United States and Ukraine show slightly higher retail waste, but Denmark stands out with significantly higher levels influenced by factors like limited local production and higher affluence.
+
+## 2. Global Economic Impact of Food Waste: Unveiling the Interplay of Economic Consequences and Regional Disparities
+
+In this segment, we sought to delve into the second research question: "What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?" This exploration involved examining the overall economic ramifications of food waste worldwide and discerning its distinct effects on various regions
+
+### Volume of Food Waste Production:
+
+- The global average volume is around 3.17 million tonnes, leading to significant economic losses due to devaluation and inefficient resource utilization.
+
+### Regional Disparities:
+
+- Higher development level countries like the USA have larger volumes of food waste compared to lower development level countries like Ukraine and Portugal.
+
+### Economic Indicators and Food Waste:
+
+- Regression analysis suggests limited impact of indicators like average weekly working hours and minimum wages on predicting food waste volumes, but they are still factors worth considering.
+
+### Correlations:
+
+- Countries with higher GDP per capita tend to generate more food waste, emphasizing the link between economic indicators and waste production.
+
+### Conclusions:
+
+- Global economic impact involves substantial losses, resource inefficiency, and increased expenditures on transportation and storage.
+- Disparities in economic development define food waste volumes, and economic indicators interact with induced food waste.
+
+## 3. Exploring the Relationship Between Economic Prosperity and Food Waste Reduction Initiatives
+
+In this segment, our primary objective was to delve into the third research question: "Do correlations exist between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?" This inquiry was undertaken to uncover the intricate connections between a region's economic well-being and its capacity to execute impactful strategies aimed at reducing food waste.
+
+### Data Gap Consideration:
+
+- Analysis identified variations, emphasizing the need for additional research to fill data gaps, highlighting the importance of comprehensive and reliable data for robust conclusions.
+
+### Sensitivity to Economic Factors:
+
+- The model's sensitivity to economic indicators suggests that regions with higher economic development may have more resources and infrastructure for effective waste reduction initiatives.
+
+### Risk Sources and Optimization:
+
+- Identification of potential risk sources underscores the complexity of the relationship, suggesting optimization of data collection processes and consideration of additional factors.
+
+### Planned Supplementary Research:
+
+- The recommendation for supplementary research indicates a commitment to continuous improvement, recognizing the need for exploring evolving dynamics between economic prosperity and food waste reduction.
+
+In conclusion, the analysis provides valuable insights into household food waste, the global economic impact of food waste, and potential correlations between economic prosperity and food waste reduction initiatives, highlighting the importance of further research and a holistic approach for a comprehensive understanding.
 
 ## `Possible Alternative Approaches`
 
@@ -210,7 +266,7 @@ The findings can be used for further research and development of waste managemen
 
 ---
 
-_For a detailed analysis, refer to the [Full Project Analysis](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md) in the project repository._
+_For a detailed analysis, refer to the [Full Project Analysis](./milestone/milestone_3/README.md) in the project repository._
 
 ## Milestone retrospective
 
@@ -220,33 +276,31 @@ _For a detailed analysis, refer to the [Full Project Analysis](https://github.co
 
 ### Scripts
 
-[**Analysis_Food_Service_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_food_service_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**analysis_waste**](./milestone/milestone_3/analysis_waste) - Detailed analysis of waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
-[**Analysis_Household_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**Summary analysis**](./milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
 
-[**Analysis_Food_Retail_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/analysis_waste/analysis_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
-
-[**Summary analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+[**Predictions**](./milestone/milestone_3/prediction/)- The analysis focuses on addressing data gaps, sensitivity scenarios, and risk sources, offering solutions for improvement
 
 ## `Conclusion:`
 
 While the chosen analysis techniques have provided valuable insights, it's crucial to acknowledge potential flaws and consider alternative approaches to enhance the robustness of our findings. Adapting methods based on ongoing discoveries and advancements in data science ensures a dynamic and thorough analysis approach.
 
-[Answers](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/research_questions.md) for [Actionable Research Questions](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_1/research_question.md).
+[Answers](./milestone/milestone_3/research_questions.md) for [Actionable Research Questions](./milestone/milestone_1/research_question.md).
 
 **_Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones._**
 
 ### Documentation
 
-[**Analysis_Waste**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/analysis_waste)
+[**Analysis_Waste**](./milestone/milestone_3/analysis_waste/README.md)
 
-[**Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/milestone/milestone_3/README.md)
+[**Analysis**](./milestone_3/README.md)
 
-[**Machine Learning Prediction**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction)
+[**Machine Learning Prediction**](./milestone/milestone_3/prediction)
 
-[**Prediction Analysis**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction/analysis_code.md)
+[**Prediction Analysis**](./milestone/milestone_3/prediction/analysis_code.md)
 
-[**Prediction documentation**](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/tree/main/milestone/milestone_3/prediction/README.md)
+[**Prediction documentation**](./milestone/milestone_3/prediction/README.md)
 
 What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
 What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
@@ -256,7 +310,7 @@ Are there correlations between the economic prosperity of a region and its succe
 
 ### **Date: 19 February - 2 March, 2024**
 
-## Milestone overview: 
+## Milestone overview:
 
 ## Selecting the Target Audience:
 
@@ -276,24 +330,23 @@ Our target audience is Nonprofit Organizations that specialize in addressing soc
 
 ## Limitations we may face:
 
--  Financial Limitations: Non-profit organizations may have limited financial resources to participate in projects.
--  Resource constraints: Some organizations may have limited resources to actively participate in projects.
--  Partnership Opportunities: Nonprofit organizations can find new opportunities to collaborate and develop their activities.
+- Financial Limitations: Non-profit organizations may have limited financial resources to participate in projects.
+- Resource constraints: Some organizations may have limited resources to actively participate in projects.
+- Partnership Opportunities: Nonprofit organizations can find new opportunities to collaborate and develop their activities.
 
 ## Ways to Achieve Cooperation:
 
 Direct Appeal: We will approach non-profit organizations directly, offering cooperation and sharing resources to achieve a common goal.
 Partnerships: Establishing partnerships with organizations, including sharing knowledge, resources and expertise.
-Organizing Events: Holding joint events, workshops and trainings with non-profit organizations to raise awareness and collaboration in       reducing food waste. 
+Organizing Events: Holding joint events, workshops and trainings with non-profit organizations to raise awareness and collaboration in reducing food waste.
 
 ## The final decision
+
 How we will present to them: a poster or a Power Point presentation (to be decided after Monday's workshop).
 
 ## Milestone retrospective
 
-- [Retrospective 4](https://github.com/MIT-Emerging-Talent/2024-group-11-cdsp/blob/main/retrospective/retrospective_4.md)
-
-
+- [Retrospective 4](./retrospective/retrospective_4.md)
 
 # Milestone 5: Final Presentation Event
 
