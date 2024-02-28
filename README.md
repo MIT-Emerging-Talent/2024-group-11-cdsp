@@ -279,6 +279,7 @@ _For a detailed analysis, refer to the [Full Project Analysis](./milestone/miles
 [**analysis_waste**](./milestone/milestone_3/analysis_waste) - Detailed analysis of waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
 [**Summary analysis**](./milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+
 [**Predictions**](./milestone/milestone_3/prediction/)- The analysis focuses on addressing data gaps, sensitivity scenarios, and risk sources, offering solutions for improvement
 
 ## `Conclusion:`
