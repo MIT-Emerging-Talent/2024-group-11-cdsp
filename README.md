@@ -276,13 +276,10 @@ _For a detailed analysis, refer to the [Full Project Analysis](./milestone/miles
 
 ### Scripts
 
-[**Analysis_Food_Service_Waste**](./milestone/milestone_3/analysis_waste/analysis_food_service_waste.ipynb) - Detailed analysis of food service waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
-
-[**Analysis_Household_Waste**](./main/milestone/milestone_3/analysis_waste/analysis_household_waste.ipynb) - Detailed analysis of household waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
-
-[**Analysis_Food_Retail_Waste**](./milestone/milestone_3/analysis_waste/analysis_retail_food_waste.ipynb) - Detailed analysis of retail food waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+[**analysis_waste**](./milestone/milestone_3/analysis_waste) - Detailed analysis of waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
 
 [**Summary analysis**](./milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+[**Predictions**](./milestone/milestone_3/prediction/)- The analysis focuses on addressing data gaps, sensitivity scenarios, and risk sources, offering solutions for improvement
 
 ## `Conclusion:`
 
@@ -294,7 +291,7 @@ While the chosen analysis techniques have provided valuable insights, it's cruci
 
 ### Documentation
 
-[**Analysis_Waste**](./milestone/milestone_3/analysis_waste)
+[**Analysis_Waste**](./milestone/milestone_3/analysis_waste/README.md)
 
 [**Analysis**](./milestone_3/README.md)
 
