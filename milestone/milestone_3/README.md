@@ -228,3 +228,197 @@ To access the answers to the questions, please follow [research_question](./mile
 ## Utilizing the Dataset
 
 To effectively use this dataset, follow the provided analysis steps, adapting them based on your specific research goals and dataset characteristics.
+
+
+# [Milestone 3: Data Analysis](./milestone/milestone_3)
+
+### **Date: 5-16 February, 2024**
+
+## Overview:
+
+![alt text](/extras/1-1-1180x617.png)
+The project is based on the analysis of the relationship between economic indicators and waste generation using a dataset extracted from the [2021 UNEP Food Waste Index Report](</extras/FWD%20(1).xlsx>).
+
+## `Non-technical explanation of our findings`
+
+In our exploration of the relationship between economic indicators and global waste generation patterns, we've uncovered several noteworthy insights. Our dataset, encompassing diverse countries, allowed us to observe trends and variations in economic factors and waste production.
+
+## Key Findings:
+
+### 1. Working Hours and Wages:
+
+- On average, countries maintain a standard working week of around 38.2 hours, with variations.
+
+- Monthly minimum wages exhibit substantial diversity, ranging from 170 to 3298.4 USD.
+
+### 2. Financial Indicators:
+
+- Lending rates vary widely, averaging at 6.03%, reflecting the financial diversity among nations.
+
+- GDP per capita averages at 57.90 thousand USD, showcasing economic differences.
+
+### 3. Human Development Index (HDI):
+
+- The HDI indicates a high level of development across the considered countries, with an average of 0.894.
+
+![alt text](/extras/HDI.png)
+
+### 4. Waste Production:
+
+- Total waste production spans from 38.8 thousand tonnes to 45.4 million tonnes, emphasizing the significant environmental impact.
+
+![alt text](/extras/waste_production_sector.png)
+
+## `Levels of Certainty`
+
+While we express moderate to high confidence in our findings, it's crucial to acknowledge the complexities and potential uncertainties associated with our analysis. The following factors contribute to our level of certainty:
+
+- Data Limitations: Our findings rely on the available dataset, and any limitations or gaps in the data may influence the accuracy of our conclusions.
+
+- Assumptions: We made certain assumptions during our analysis, and any deviations from these assumptions could introduce uncertainties in our findings.
+
+- Sampling Variability: If the analysis involved sampling, there may be inherent variability. Our observations represent patterns in the sample, and variations could exist in a broader population.
+
+## Technical description of analysis
+
+This section presents the results of the data analysis conducted using Jupyter Notebook -
+[**Analysis**](/milestone/milestone_3/total_analysis.ipynb)
+
+| Technique                         | Objective                                                                   | Rationale                                                                                                                               |
+| --------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `Data Cleaning`                   | Handled missing values and normalized column names for uniformity.          | Clean data is essential for accurate analysis, and normalization facilitates consistent comparisons.                                    |
+| `Exploratory Data Analysis (EDA)` | Utilized histograms to understand data distribution.                        | Histograms provide a visual overview of the data, aiding in identifying patterns and potential outliers.                                |
+| `Correlation Analysis`            | Explored correlations between economic indicators and waste generation.     | Understanding correlations helps identify potential relationships and guide further analysis.                                           |
+| `Regression Analysis`             | Conducted regression analysis for predicting waste generation levels.       | Regression allows for the exploration of relationships between independent and dependent variables, aiding in prediction.               |
+| `Geospatial Analysis`             | Visualized waste distribution across regions using geospatial maps.         | Geospatial analysis provides a spatial context to waste generation patterns, offering a comprehensive view.                             |
+| `Machine Learning Prediction`     | Used linear regression to predict waste generation levels for future years. | Machine learning models offer a quantitative approach to predict trends and patterns in data, contributing to informed decision-making. |
+
+## `Technical explanation of our findings`
+
+## Key Findings and Insights
+
+## 1. Household Food Waste Across Regions: Unraveling the Tapestry of Per Capita Waste and Socioeconomic Disparities
+
+In this section of the project, we aimed to address the first research question: "What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?"
+
+### Variability in Per Capita Household Food Waste:
+
+- Poland and the USA exhibit similar levels of per capita household food waste, while Germany and Ukraine have moderately elevated values.
+- Canada and Denmark show higher estimates, indicating advanced waste management systems, possibly due to effective sorting and recycling programs and responsible population attitudes.
+
+### Consumption Patterns:
+
+- The United States leads in food service expenditures, with variations observed among countries like Germany, Denmark, Poland, Canada, and Ukraine.
+- Diverse distribution hints at evolving trends influenced by consumption strategies and legislative landscapes, emphasizing varying policy needs for food waste management.
+
+### Retail Waste Patterns:
+
+- Germany has the lowest retail waste, while Canada and Poland exhibit moderate values.
+- The United States and Ukraine show slightly higher retail waste, but Denmark stands out with significantly higher levels influenced by factors like limited local production and higher affluence.
+
+## 2. Global Economic Impact of Food Waste: Unveiling the Interplay of Economic Consequences and Regional Disparities
+
+In this segment, we sought to delve into the second research question: "What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?" This exploration involved examining the overall economic ramifications of food waste worldwide and discerning its distinct effects on various regions
+
+### Volume of Food Waste Production:
+
+- The global average volume is around 3.17 million tonnes, leading to significant economic losses due to devaluation and inefficient resource utilization.
+
+### Regional Disparities:
+
+- Higher development level countries like the USA have larger volumes of food waste compared to lower development level countries like Ukraine and Portugal.
+
+### Economic Indicators and Food Waste:
+
+- Regression analysis suggests limited impact of indicators like average weekly working hours and minimum wages on predicting food waste volumes, but they are still factors worth considering.
+
+### Correlations:
+
+- Countries with higher GDP per capita tend to generate more food waste, emphasizing the link between economic indicators and waste production.
+
+### Conclusions:
+
+- Global economic impact involves substantial losses, resource inefficiency, and increased expenditures on transportation and storage.
+- Disparities in economic development define food waste volumes, and economic indicators interact with induced food waste.
+
+## 3. Exploring the Relationship Between Economic Prosperity and Food Waste Reduction Initiatives
+
+In this segment, our primary objective was to delve into the third research question: "Do correlations exist between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?" This inquiry was undertaken to uncover the intricate connections between a region's economic well-being and its capacity to execute impactful strategies aimed at reducing food waste.
+
+### Data Gap Consideration:
+
+- Analysis identified variations, emphasizing the need for additional research to fill data gaps, highlighting the importance of comprehensive and reliable data for robust conclusions.
+
+### Sensitivity to Economic Factors:
+
+- The model's sensitivity to economic indicators suggests that regions with higher economic development may have more resources and infrastructure for effective waste reduction initiatives.
+
+### Risk Sources and Optimization:
+
+- Identification of potential risk sources underscores the complexity of the relationship, suggesting optimization of data collection processes and consideration of additional factors.
+
+### Planned Supplementary Research:
+
+- The recommendation for supplementary research indicates a commitment to continuous improvement, recognizing the need for exploring evolving dynamics between economic prosperity and food waste reduction.
+
+In conclusion, the analysis provides valuable insights into household food waste, the global economic impact of food waste, and potential correlations between economic prosperity and food waste reduction initiatives, highlighting the importance of further research and a holistic approach for a comprehensive understanding.
+
+## `Possible Alternative Approaches`
+
+### 1. Machine Learning Models:
+
+- Explanation: Instead of traditional regression, machine learning models like Random Forest or Gradient Boosting could be explored for predictive modeling, potentially capturing non-linear relationships.
+
+### 2. Robust Regression:
+
+- Explanation: To address potential outliers impacting regression results, robust regression techniques like Huber regression could be considered.
+
+### 3. Advanced Geospatial Techniques:
+
+- Explanation: Utilizing more advanced geospatial analysis techniques, such as spatial autocorrelation, could provide deeper insights into regional waste distribution patterns.
+
+### Applying the Results:
+
+The findings can be used for further research and development of waste management strategies in the context of economic development.
+
+---
+
+_For a detailed analysis, refer to the [Full Project Analysis](./milestone/milestone_3/README.md) in the project repository._
+
+## Milestone retrospective
+
+- [Retrospective 3](/retrospective/retrospective_3.md)
+
+## Scripts and documentation
+
+### Scripts
+
+[**analysis_waste**](./milestone/milestone_3/analysis_waste) - Detailed analysis of waste was conducted, including data type checking, data processing and cleaning, as well as statistical analysis.
+
+[**Summary analysis**](./milestone/milestone_3/total_analysis.ipynb)-The dataset comprises estimates of household, food service, and retail waste per country, extracted from the 2021 UNEP Food Waste Index Report. It encompasses information on waste generation, confidence levels, and economic indicators such as GDP per capita, lending rates, and more.
+
+[**Predictions**](./milestone/milestone_3/prediction/)- The analysis focuses on addressing data gaps, sensitivity scenarios, and risk sources, offering solutions for improvement
+
+## `Conclusion:`
+
+While the chosen analysis techniques have provided valuable insights, it's crucial to acknowledge potential flaws and consider alternative approaches to enhance the robustness of our findings. Adapting methods based on ongoing discoveries and advancements in data science ensures a dynamic and thorough analysis approach.
+
+[Answers](./milestone/milestone_3/research_questions.md) for [Actionable Research Questions](./milestone/milestone_1/research_question.md).
+
+**_Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones._**
+
+### Documentation
+
+[**Analysis_Waste**](./milestone/milestone_3/analysis_waste/README.md)
+
+[**Analysis**](./milestone_3/README.md)
+
+[**Machine Learning Prediction**](./milestone/milestone_3/prediction)
+
+[**Prediction Analysis**](./milestone/milestone_3/prediction/analysis_code.md)
+
+[**Prediction documentation**](./milestone/milestone_3/prediction/README.md)
+
+What is the average per capita household food waste in the studied region, and how does it vary across different income brackets or urban and rural areas?
+What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
+Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
