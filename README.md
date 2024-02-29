@@ -42,7 +42,7 @@ For transparency and replication, we provide all scripts for data collection and
 
 Engaged in Data Science research, our team focuses on implementing zero waste programs, leveraging practical experience and modern data analysis methods to contribute significantly to the field.
 
-For more details on our experience, refer to [**our_experience**](./milestone/milestone_2/our_experience.md) and [**README**](./milestone/milestone_2/README.md).
+For more details on our experience, refer to [**our experience**](./milestone/milestone_2/our_experience.md) and [**README**](./milestone/milestone_2/README.md).
 
 # [Data Analysis](./milestone/milestone_3)
 
@@ -75,10 +75,6 @@ The overall model does not explain a significant proportion of the variance in t
    - Sensitivity to economic indicators suggests regions with higher economic development may have more resources for waste reduction initiatives.
    - Supplementary research is recommended for a comprehensive understanding.
 
-## `Levels of Certainty`
-
-While expressing moderate to high confidence in our findings, it's crucial to acknowledge potential uncertainties associated with data limitations, assumptions, and sampling variability.
-
 ## `Technical description of analysis`
 
 Results of the data analysis conducted using Jupyter Notebook can be found [**here**](/milestone/milestone_3/total_analysis.ipynb).
@@ -109,46 +105,15 @@ Our focus is on Nonprofit Organizations dedicated to addressing social and envir
 
 ## Key Strategies for Nonprofit Organizations to Reduce Food Waste:
 
-- **Promoting Conscious Consumption:**
-
-  - Conduct information campaigns and educational activities for consumers on healthy eating and responsible food handling.
-
-- **Supporting Restaurants and Catering Establishments:**
-
-  - Advocate for programs encouraging storage and use of leftovers in restaurants and food service establishments.
-
-- **Developing Food Recycling Programs:**
-
-  - Promote initiatives for food recycling in food service locations, encouraging waste sorting and recycling.
-
-- **Establishing Partnerships with Grocery Stores:**
-  - Collaborate with grocery stores and food providers to minimize food rejection and wastage.
+Nonprofits can reduce food waste significantly by promoting conscious consumption, supporting efficient practices in restaurants, advocating for recycling programs, and collaborating with grocery stores. This comprehensive approach fosters sustainability and responsible food management, positioning nonprofits at the forefront of the fight against food waste.
 
 ## Limitations:
 
-- **Financial Limitations:**
-
-  - Nonprofit organizations may have limited financial resources.
-
-- **Resource Constraints:**
-
-  - Some organizations may face resource limitations.
-
-- **Partnership Opportunities:**
-  - Identifying new opportunities for collaboration and development.
+Nonprofit organizations often face financial and resource limitations. Insufficient funds can restrict the scale of their projects, while a lack of personnel, technology, or assets affects their overall operations.Exploring new partnership opportunities is another challenging task. The success of such initiatives relies on the ability to communicate effectively and collaborate with other organizations.Effectively managing resources, seeking innovative solutions, and consistently analyzing partnership opportunities are key to overcoming limitations and enhancing the impact of nonprofit organizations.
 
 ## Cooperation Strategies:
 
-- **Direct Appeal:**
-
-  - Approach nonprofit organizations directly, offering cooperation and resource sharing.
-
-- **Partnerships:**
-
-  - Establish partnerships with organizations, sharing knowledge, resources, and expertise.
-
-- **Organizing Events:**
-  - Hold joint events, workshops, and trainings to raise awareness and foster collaboration in reducing food waste.
+Cooperation strategies include direct appeals to nonprofit organizations for collaboration and resource sharing, establishing partnerships with other entities to exchange knowledge and resources, and organizing joint events, workshops, and training sessions to raise awareness and foster collaboration in reducing food waste. These approaches aim to strengthen collective efforts and contribute to more sustainable outcomes.
 
 # Final Presentation Event
 
