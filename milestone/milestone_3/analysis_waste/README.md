@@ -74,6 +74,19 @@ This project involves the analysis of data from three CSV files containing infor
 14. **Retail Waste Analysis:**
     - The graph depicts the distribution of retail waste estimates (kg/capita/year) across selected countries. Germany shows the lowest retail waste, while Canada and Poland exhibit moderate values. The United States and Ukraine have slightly higher retail waste, but Denmark stands out with significantly higher levels. Denmark's unique profile is influenced by factors such as limited local production, a substantial amount of imported perishable goods, and higher average affluence leading to increased food waste. Overall, the graph highlights diverse patterns in retail waste, reflecting variations in consumption habits and waste management practices among the countries.
 
+## `Possible Alternative Approaches`
+
+1. **Machine Learning Models:**
+
+   - Explore models like Random Forest or Gradient Boosting for predictive modeling.
+
+2. **Robust Regression:**
+
+   - Consider robust regression techniques like Huber regression to address potential outliers.
+
+3. **Advanced Geospatial Techniques:**
+   - Utilize advanced geospatial analysis techniques for deeper insights into regional waste distribution patterns.
+
 ## Usage
 
 1. Download the files [`retail_food_waste.csv`](./milestone/milestone_3/analysis_waste/retail_food_waste.csv), [`household_waste.csv`](./milestone/milestone_3/analysis_waste/household_waste.csv), and [`food_service_waste.csv`](./milestone/milestone_3/analysis_waste/food_service_waste.csv).
