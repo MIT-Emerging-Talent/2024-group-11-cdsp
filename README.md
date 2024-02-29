@@ -53,7 +53,7 @@ For more details on our experience, refer to [**our experience**](./milestone/mi
 ![alt text](/extras/1-1-1180x617.png)
 The project analyzes the relationship between economic indicators and waste generation using data from the [2021 UNEP Food Waste Index Report](</extras/FWD%20(1).xlsx>).
 
-## `Non-technical explanation of our findings`
+## `Explanation of our findings`
 
 Our exploration of the relationship between economic indicators and global waste generation patterns yielded several insights. The dataset, covering diverse countries, allowed us to observe trends and variations in economic factors and waste production.
 
@@ -75,23 +75,15 @@ The overall model does not explain a significant proportion of the variance in t
    - Sensitivity to economic indicators suggests regions with higher economic development may have more resources for waste reduction initiatives.
    - Supplementary research is recommended for a comprehensive understanding.
 
-## `Technical description of analysis`
-
-Results of the data analysis conducted using Jupyter Notebook can be found [**here**](/milestone/milestone_3/total_analysis.ipynb).
-
-### Applying the Results:
-
+Results of the data analysis conducted using Jupyter Notebook can be found [**here**](./milestone/milestone_3/total_analysis.ipynb).
+The prediction model is provided [**here**](./milestone/milestone_3/prediction).
 The findings can be used for further research and development of waste management strategies in the context of economic development.
 
 ---
 
 _For a detailed analysis, refer to the [Full Project Analysis](./milestone/milestone_3/README.md) in the project repository._
 
-## `Conclusion:`
-
 Adapting methods based on ongoing discoveries ensures a dynamic and thorough analysis approach. [Answers](./milestone/milestone_3/research_questions.md) for [Actionable Research Questions](./milestone/milestone_1/research_question.md).
-
-**_Please be aware that the analysis is currently underway, and any updates or improvements will be incorporated into future milestones._**
 
 # [Communicating Results](./milestone/milestone_4)
 
