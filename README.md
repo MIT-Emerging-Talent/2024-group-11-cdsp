@@ -1,14 +1,11 @@
 # Zero Waste Initiative
 
-### Milestones timeframe
-
-![alt text](./extras/image.png)
 
 ## Overview
 
 Zero Waste offers a systematic approach to avoiding or reusing waste with the aim of minimizing its disposal into landfills. It's a strategic resource management paradigm that is becoming increasingly relevant in today's world, where the need for sustainable development and efficient resource utilization is evident.
 
-# [Milestone 0: Collaborative Development]() 
+# [Collaborative Development]() 
 
 ## Core Issues
 
@@ -23,7 +20,7 @@ Zero Waste offers a systematic approach to avoiding or reusing waste with the ai
 - **Defining the Issue:** Analyze statements from various stakeholder groups to identify key challenges and opportunities in waste management.
 - **Generating Ideas and Making Progress:** Engage in collaborative brainstorming sessions to devise innovative solutions. Test these ideas through simulations or small-scale projects, continuously iterating based on feedback and data analysis.
 
-# [Milestone 1: Problem Identification](./milestone/milestone_1) 
+# [Problem Identification](./milestone/milestone_1) 
 
 **_Be aware that the full description of this milestone you can find by refer to [README](./milestone/milestone_1/README.md)_**
 
@@ -38,8 +35,6 @@ Throughout the project, we refined our research questions for greater specificit
 2. What is the collective economic impact of food waste on a global scale, and how does it affect different regions economically?
 3. Are there correlations between the economic prosperity of a region and its success in implementing effective food waste reduction initiatives?
 
-## Milestone Retrospective
-- [Retrospective 1](./retrospective/retrospective_1.md)
 
 ## 🌱 Problem Identification, Domain Understanding, and Statement
 Our project addresses challenges in implementing Zero Waste programs, with a particular focus on cultural and geographical factors hindering the adoption of new consumption practices and waste management strategies within the food industry.
@@ -47,7 +42,7 @@ Our project addresses challenges in implementing Zero Waste programs, with a par
 Our team works with global data and analysis, with a focus on countries where team members currently reside.
 
 
-# [Milestone 2: Data Collection](./milestone/milestone_2) 
+# [Data Collection](./milestone/milestone_2) 
 
 **_Be aware that the full description of this milestone you can find by refer to [README](./milestone/milestone_2/README.md)_**
 
@@ -69,11 +64,9 @@ Engaged in Data Science research, our team focuses on implementing zero waste pr
 
 For more details on our experience, refer to [**our_experience**](./milestone/milestone_2/our_experience.md) and [**README**](./milestone/milestone_2/README.md).
 
-## Milestone retrospective
 
-- [Retrospective 2](./retrospective/retrospective_2.md)
 
-# [Milestone 3: Data Analysis](./milestone/milestone_3) 
+# [Data Analysis](./milestone/milestone_3) 
 **_Be aware that the full description of this milestone you can find by refer to [README](./milestone/milestone_3/README.md)_**
 
 ![alt text](/extras/1-1-1180x617.png)
@@ -113,9 +106,6 @@ Results of the data analysis conducted using Jupyter Notebook can be found [**he
 
 _For a detailed analysis, refer to the [Full Project Analysis](./milestone/milestone_3/README.md) in the project repository._
 
-## Milestone retrospective
-
-- [Retrospective 3](/retrospective/retrospective_3.md)
 
 
 ## `Conclusion:`
@@ -128,7 +118,7 @@ Adapting methods based on ongoing discoveries ensures a dynamic and thorough ana
 
 
 
-# [Milestone 4: Communicating Results](./milestone/milestone_4)
+# [Communicating Results](./milestone/milestone_4)
 
 
 **_Be aware that the full description of this milestone you can find by refer to [README](./milestone/milestone_4/README.md)_**
@@ -166,11 +156,7 @@ Our focus is on Nonprofit Organizations dedicated to addressing social and envir
 
 
 
-## Milestone retrospective
-
-- [Retrospective 4](./retrospective/retrospective_4.md)
-
-# [Milestone 5: Final Presentation Event]() 
+# [Final Presentation Event]() 
 
 1. A 1-minute pitch for your solution.
 2. A 3-minute presentation of your
