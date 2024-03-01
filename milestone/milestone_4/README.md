@@ -33,7 +33,8 @@ Our focus is on Nonprofit Organizations dedicated to addressing social and envir
 
 ## Data Requests for Nonprofit Organizations:
 
-**The latest data of:** 
+**_Our project analysis was carried out based on the latest public information found in various sources. The limit year of information found is 2021. We need the latest data from 2022 onwards, namely:_**
+
 - **Detailed Yearly Waste Breakdown:** Requesting country-specific, year-wise waste production data to enhance the precision of our analysis and predictions.
 - **Recent Emission Reduction Programs Data:** Soliciting information on recent emission reduction programs in the food industry to understand their potential influence on waste reduction predictions.
 - **Socio-Cultural Factors Influencing Food Waste:** Requesting data related to socio-cultural factors affecting food waste behaviors in different countries for a more nuanced analysis.
