@@ -34,26 +34,26 @@ Our focus is on Nonprofit Organizations dedicated to addressing social and envir
 ## Data Requests for Nonprofit Organizations:
 
 **The latest data of:** 
-- Detailed Yearly Waste Breakdown: Requesting country-specific, year-wise waste production data to enhance the precision of our analysis and predictions.
-- Recent Emission Reduction Programs Data: Soliciting information on recent emission reduction programs in the food industry to understand their potential influence on waste reduction predictions.
-- Socio-Cultural Factors Influencing Food Waste: Requesting data related to socio-cultural factors affecting food waste behaviors in different countries for a more nuanced analysis.
-- Country-Specific Waste Reduction Strategies: Seeking information on country-specific waste reduction strategies or policies, including their implementation timelines and observed impacts.
-- Machine Learning Model Training Data: If applicable, requesting additional training data for our machine learning model, particularly specific year-wise data, to enhance its predictive capabilities.
-- Environmental Footprint Reduction Metrics: Seeking data or metrics quantifying the reduction of the environmental footprint achieved through successful waste management practices.
-- Regional Variations in Consumption Patterns: Inquiring about data highlighting regional variations in food consumption patterns to improve the accuracy of our waste trend analysis.
-- Impact Reports from Collective Initiatives: Requesting reports or studies outlining the impact of collective initiatives on food waste reduction for empirical evidence supporting collaborative efforts.
+- **Detailed Yearly Waste Breakdown:** Requesting country-specific, year-wise waste production data to enhance the precision of our analysis and predictions.
+- **Recent Emission Reduction Programs Data:** Soliciting information on recent emission reduction programs in the food industry to understand their potential influence on waste reduction predictions.
+- **Socio-Cultural Factors Influencing Food Waste:** Requesting data related to socio-cultural factors affecting food waste behaviors in different countries for a more nuanced analysis.
+- **Country-Specific Waste Reduction Strategies:** Seeking information on country-specific waste reduction strategies or policies, including their implementation timelines and observed impacts.
+- **Machine Learning Model Training Data:** If applicable, requesting additional training data for our machine learning model, particularly specific year-wise data, to enhance its predictive capabilities.
+- **Environmental Footprint Reduction Metrics:** Seeking data or metrics quantifying the reduction of the environmental footprint achieved through successful waste management practices.
+- **Regional Variations in Consumption Patterns:** Inquiring about data highlighting regional variations in food consumption patterns to improve the accuracy of our waste trend analysis.
+- **Impact Reports from Collective Initiatives:** Requesting reports or studies outlining the impact of collective initiatives on food waste reduction for empirical evidence supporting collaborative efforts.
 
 ## Limitations:
 
-- Financial Limitations: Non-profit organizations may have limited financial resources to participate in projects.
-- Resource constraints: Some organizations may have limited resources to actively participate in projects.
-- Partnership Opportunities: Nonprofit organizations can find new opportunities to collaborate and develop their activities.
+- **Financial Limitations:** Nonprofit organizations may have limited financial resources.
+- **Resource Constraints:** Some organizations may face resource limitations.
+- **Partnership Opportunities:** Identifying new opportunities for collaboration and development.
 
 ## Cooperation Strategies:
 
-Direct Appeal: We will approach non-profit organizations directly, offering cooperation and sharing resources to achieve a common goal.
-Partnerships: Establishing partnerships with organizations, including sharing knowledge, resources and expertise.
-Organizing Events: Holding joint events, workshops and trainings with non-profit organizations to raise awareness and collaboration in reducing food waste.
+- **Direct Appeal:** Approach nonprofit organizations directly, offering cooperation and resource sharing.
+- **Partnerships:** Establish partnerships with organizations, sharing knowledge, resources, and expertise.
+- **Organizing Events:** Hold joint events, workshops, and trainings to raise awareness and foster collaboration in reducing food waste.
 
 ## Communication Artifact:
 
