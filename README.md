@@ -127,32 +127,31 @@ Adapting methods based on ongoing discoveries ensures a dynamic and thorough ana
 
 Our focus is on Nonprofit Organizations dedicated to addressing social and environmental issues, specifically in the realm of food waste. We aim to engage organizations with significant influence on groups contributing to food waste, such as households, food service, and retail.
 
-## Key Strategies for Nonprofit Organizations to Reduce Food Waste:
+## Key Suggested Strategies for Nonprofit Organizations to Reduce Food Waste:
 
-- **Promoting Conscious Consumption:**  Conduct information campaigns and educational activities for consumers on healthy eating and responsible food handling.
+- **Promoting Conscious Consumption:**  Tailor information campaigns based on country-specific waste patterns identified through analysis of the relationship between living standards and food waste.
 
-- **Supporting Restaurants and Catering Establishments:** Advocate for programs encouraging storage and use of leftovers in restaurants and food service establishments.
+- **Supporting Restaurants and Catering Establishments:** Advocate for tailored programs in regions exhibiting higher waste estimates.
 
-- **Developing Food Recycling Programs:** Promote initiatives for food recycling in food service locations, encouraging waste sorting and recycling.
+- **Developing Technology to Track and Manage Leftover Food:** Emphasize the importance of technology by aligning proposals with the machine learning modeling ideas for waste reduction demonstrated in the project analysis.
 
-- **Establishing Partnerships with Grocery Stores:** Collaborate with grocery stores and food providers to minimize food rejection and wastage.
+- **Monitoring and Evaluation:** Encourage organizations to adopt analytical approaches for waste reduction, considering regional waste disparities.
 
+## Key Data Requests for Nonprofit Organizations:
 
-## Limitations:
+**_Our project analysis was carried out based on the latest public information found in various sources. The limit year of information found is 2021. We need the latest data from 2022 onwards, namely:_**
 
-- **Financial Limitations:** Nonprofit organizations may have limited financial resources.
+- **Detailed Yearly Waste Breakdown:** Requesting country-specific, year-wise waste production data to enhance the precision of our analysis and predictions.
 
-- **Resource Constraints:** Some organizations may face resource limitations.
+- **Recent Emission Reduction Programs Data:** Soliciting information on recent emission reduction programs in the food industry to understand their potential influence on waste reduction predictions.
 
-- **Partnership Opportunities:** Identifying new opportunities for collaboration and development.
+- **Socio-Cultural Factors Influencing Food Waste:** Requesting data related to socio-cultural factors affecting food waste behaviors in different countries for a more nuanced analysis.
 
-## Cooperation Strategies:
+- **Machine Learning Model Training Data:** Requesting additional training data for our machine learning model, to enhance its predictive capabilities.
 
-- **Direct Appeal:** Approach nonprofit organizations directly, offering cooperation and resource sharing.
+## `Important message:`
 
-- **Partnerships:** Establish partnerships with organizations, sharing knowledge, resources, and expertise.
-
-- **Organizing Events:** Hold joint events, workshops, and trainings to raise awareness and foster collaboration in reducing food waste.
+Based on the analysis, we have developed [set of strategies](./milestone/milestone_4/README.md) that will lead to a reduction in the amount of food waste. Also, to provide more accurate and extensive analysis, we need more data presented [here](./milestone/milestone_4/README.md), and any food waste data after 2022. By collaboration, we will make significant progress in the area of food waste.
 
 
 
